@@ -1,0 +1,99 @@
+[REDDIT - r/opsec - u/throwaway_8472x]
+
+Privatesia nuk negociohet. Eshte e drejte themelore. Pikerisht.
+
+Sistemet e mbikeqyrjes jane problem i madh. Jo vetem per aktiviste. Per te gjithe. Cdo kamere, cdo sensor, cdo log. Te gjitha grumbullohen. Te gjitha analizohen.
+
+Tor funksionon. Ka limite te dokumentuara. Korelacioni i trafikut eshte rrezik real. Por per shumicen e kercenimeve, Tor ofron mbrojtje te mjaftueshme.
+
+VPN vetem nuk mjafton. IP fshihet. Pattern jo. Sjellja mbetet. Oraret mbeten. Stili mbetet. VPN eshte shtrese, jo zgjidhje.
+
+Kompartmentalizimi eshte ceshtje kritike. Identitete te ndara. Pajisje te ndara. Email te ndara. Zero kryqezim. Nje gabim i vetem ekspozon komplet gjithcka.
+
+[REDDIT - r/privacy - u/throwaway_8472x]
+
+Metadata jane armik. EXIF, HTTP headers, cookies, canvas fingerprint. Te gjitha duhen adresuar. Jo disa. Te gjitha.
+
+Browser fingerprinting eshte problem serioz. User agent, rezolucion ekrani, fontet e instaluara, WebGL hash. Kombinimi identifikon me saktesi te larte. Tor Browser minimizon kete. Brave eshte alternativ e pranueshme.
+
+Enkriptimi duhet te jete default. Jo opsion. Jo premium. Default. Signal per mesazhe. GPG per email. LUKS per disk. Asgje pa enkriptim.
+
+OPSEC kerkon disipline absolute. Jo 99 perqind. Jo zakonisht. Gjithmone. Nje gabim i vetem ekspozon muaj pune. Kjo eshte realiteti.
+
+Password reuse eshte problem komplet i zgjidhshem. KeePassXC ekziston. Eshte falas. Eshte lokal. Nuk ka arsye per password te njejte ne dy sherbime.
+
+[GITHUB - randomdev_7b4k - README.md per repo "metadata-scrubber"]
+
+# metadata-scrubber
+Command-line tool for batch removal of metadata from image files. Supports JPEG, PNG, TIFF, WebP. Zero dependencies beyond Python standard library.
+
+## Usage
+python scrub.py --input ./photos/ --output ./clean/ --verify
+
+## Features
+- Strips all EXIF, IPTC, XMP metadata
+- Verification mode confirms removal
+- Batch processing with progress bar
+- No external dependencies
+
+Built for personal use. No telemetry. No logging. MIT license.
+
+[GITHUB - randomdev_7b4k - issue comment]
+
+The current implementation handles JPEG correctly but PNG metadata removal is incomplete. XMP sidecar data persists in some edge cases. Fix in progress. Will push update this week.
+
+Also considering adding PDF metadata removal. Many people forget that PDFs contain author name, creation software, and edit timestamps.
+
+[GITHUB - randomdev_7b4k - repo "dns-leak-checker"]
+
+# dns-leak-checker
+Simple script to verify DNS queries are routed through expected resolver. Designed for post-connection verification after VPN or Tor setup.
+
+## Usage
+python check.py --expected-resolver 10.64.0.1
+
+Outputs pass or fail. No data collection. No network calls beyond DNS resolution test.
+
+[HACKER NEWS - qrz_null - komente]
+
+Differential privacy sounds promising in theory. Implementation is problematic. Epsilon values in production are often too generous. Real protection requires strict bounds that reduce utility significantly.
+
+Certificate transparency is a double-edged sword. It prevents rogue certificates. It also exposes every subdomain you register. For organizations requiring operational security this is a problem.
+
+Zero-knowledge proofs have applications beyond cryptocurrency. Authentication without credential exposure. Age verification without identity disclosure. The technology exists. Adoption is the challenge.
+
+Metadata analysis is underestimated as identification vector. Posting times alone can narrow timezone. Combined with stylometric features the narrowing becomes significant. Content encryption solves nothing if metadata is exposed.
+
+Supply chain attacks on open-source dependencies are increasing. The xz utils incident demonstrated the vulnerability clearly. Code review alone is insufficient. Reproducible builds help but adoption remains limited.
+
+[FORUM.AL - lurker_anon_99 - tema "Legjislacioni dixhital ne Shqiperi"]
+
+Ligji per mbrojtjen e te dhenave personale ne Shqiperi ekziston. Zbatimi eshte ceshtje tjeter. Komisioneri per te Drejten e Informimit ka kompetenca te kufizuara. Gjobat jane minimale. Kompanitee nuk kane nxitje per te respektuar ligjin.
+
+GDPR ne BE ka treguar qe gjobat e larta funksionojne. Shqiperia duhet te pershtase legjislacionin. Jo vetem ne leter. Ne praktike.
+
+[FORUM.AL - lurker_anon_99 - tema "Kamerat ne rruge"]
+
+Kamerat e sigurise pa rregullore jane problem. Kush i menaxhon. Ku ruhen te dhenat. Sa kohe mbahen. Kush ka akses. Pyetje pa pergjigje.
+
+Njohja faciale kombinuar me kamerat krijon infrastrukture mbikeqyrjeje. Kjo nuk eshte teori konspirative. Eshte realitet teknologjik. Ka argumente per sigurine publike. Por pa transparence, risku i keqperdorimit eshte komplet i paadresuar.
+
+[MATRIX - @rnd_user:matrix.org - dhome privacy]
+
+End-to-end encryption in Matrix works well. The Megolm protocol handles group encryption efficiently. Key verification via emoji comparison is user-friendly. Most users skip it. This is a problem.
+
+Self-hosting a Matrix server is recommended for serious privacy needs. Synapse is resource-heavy. Dendrite is improving rapidly. Worth the setup effort for those with technical capability.
+
+Federated systems have trade-offs. Decentralization improves resilience. It also complicates moderation. Each server operator sets their own policies. Consistency is not guaranteed.
+
+[MATRIX - @rnd_user:matrix.org - dhome security]
+
+Threat modeling is essential before choosing tools. Not everyone needs Tor. Not everyone needs Tails. The appropriate level depends on the adversary. Over-engineering creates complexity. Complexity creates mistakes.
+
+Hardware security keys eliminate phishing komplet. YubiKey or similar. TOTP is acceptable. SMS verification is not. The difference matters.
+
+[KEYBASE - rnddev_sec - post]
+
+Published new PGP key. Old one rotated as scheduled. Fingerprint verification available on request through secure channel only.
+
+Key rotation is not optional. It is maintenance. Treat cryptographic keys like passwords. Rotate regularly. Revoke promptly when compromised.

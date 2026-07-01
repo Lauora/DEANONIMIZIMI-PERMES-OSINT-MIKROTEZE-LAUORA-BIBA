@@ -1,0 +1,157 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P1
+================================================================================
+
+                         KLASIFIKIMI: MBROJTJE ZERO
+                         Kodi: P1 
+
+================================================================================
+SEKSIONI A  -  IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë:           Aleks Durrësi
+Data e lindjes: 	14 Mars 1990 (35 vjeç)
+Gjinia: 		Mashkull
+Profesioni: 		Inxhinier civil (projektues strukturash)
+Kompania: 		Studio private inxhinierike (fiktive: “DurStruct Engineering”)
+Arsimi: 		Master i Shkencave (MSc) në Inxhinieri Civile, Universiteti Politeknik i Tiranës (2014)
+Qyteti: 		Tiranë, Shqipëri
+Adresa fiktive: 	Rruga “Sami Frashëri”, Nr. 24, Tiranë
+Zona kohore: 		UTC+1 (CET) / UTC+2 (CEST, gjatë orës verore)
+Gjuha kryesore: 	Shqip (me njohuri të mira profesionale të anglishtes)
+================================================================================
+SEKSIONI B  -  KREDENCIALET DIXHITALE
+================================================================================
+
+Email kryesor:          aleks.durresi.1990@example.com
+Email dytësor:          alex_d@example.com
+Password pattern:       AlexD1990! / AlexDurres1990 / alexd_14mart
+
+================================================================================
+SEKSIONI C  -  PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username             Statusi    Aktiviteti
+---  ---------         --------             -------    ----------
+1.   Reddit            u/alex_d_1990        Aktiv      Rreth 40 komente dhe 8 postime gjatë 3 muajve të fundit
+2.   GitHub            alex_d_1990          Aktiv      5 repo, 12 commits, 3 issues
+3.   Twitter/X         @alex_d_1990         Aktiv      Rreth 60 tweets (teknike dhe personale)
+4.   LinkedIn          alex-durresi-eng     Aktiv      Profil i plotë, 200+ lidhje
+5.   StackOverflow     alex.d.1990          Aktiv      15 pyetje, 8 përgjigje
+6.   Medium            @alexdurresi         Aktiv      3 artikuj (inxhinieri dhe tech)
+7.   Instagram         alex_d_1990          Aktiv      45 foto (udhëtime, punë dhe jetë personale)
+8.   Forum.al          alex_d_1990          Aktiv      20 postime (komunitet lokal)
+
+Username Pattern:	Identik ose pothuajse identik në të gjitha platformat.
+			Modeli bazë: alex + d + 1990 ose alex + durresi.
+			Ky është sinjali më i fortë për Sherlock (V2).
+
+Bio Pattern:		"Civil engineer from Tirana. Building things. Coffee addict."
+                    	Variante minimale të së njëjtës biografi në secilën platformë.
+
+Avatar Pattern:     	E njëjta fotografi profili përdoret në Reddit, GitHub, Twitter/X dhe Medium.
+                    	Në Instagram përdoren fotografi të ndryshme personale.
+
+================================================================================
+SEKSIONI D  -  PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Smartphone:             Samsung Galaxy S23 Ultra (SM-S918B), Android 14
+GPS:                    Aktivizuar gjithmonë (high accuracy mode)
+Wi-Fi:                  Shtëpi + punë + kafene të zakonshme
+Browser:                Chrome 125 (default, pa extensions të privatësisë)
+VPN:                    Asnjëherë
+Tor:                    Asnjëherë
+Password Manager:       Asnjëherë - passwords te memorizuar
+2FA:                    Vetëm në email (Google Authenticator)
+
+================================================================================
+SEKSIONI E  -  METADATA EXIF (KONFIGURIMI PER 10 IMAZHE)
+================================================================================
+
+Imazhi  GPS Lat       GPS Lng       Model           Data/Ora              Shenime
+------  -------       -------       -----           --------              -------
+01      41.3275       19.8187       SM-S918B        2025:01:15 09:22:35   Rruga pranë shtëpisë
+02      41.3268       19.8195       SM-S918B        2025:01:18 14:05:12   Kantier ndërtimi (punë)
+03      41.3301       19.8210       SM-S918B        2025:01:22 20:15:44   Blloku - kafe në mbrëmje
+04      41.3290       19.8175       SM-S918B        2025:01:28 08:45:03   Mëngjesi në rrugë
+05      41.3312       19.8230       SM-S918B        2025:02:03 12:30:21   Parku i Tiranës
+06      41.3270       19.8190       SM-S918B        2025:02:10 17:48:55   Kthim nga puna
+07      41.3285       19.8200       SM-S918B        2025:02:15 21:10:08   Darkë me miq
+08      41.3260       19.8180       SM-S918B        2025:02:22 10:05:33   Fundjavë në qytet
+09      41.3295       19.8215       SM-S918B        2025:03:01 13:20:17   Projekt i ri
+10      41.3278       19.8192       SM-S918B        2025:03:08 19:35:42   Foto e perëndimit
+
+SHËNIME EXIF:
+
+Të gjitha imazhet ruajnë EXIF të plotë (GPS + Model + Timestamp + Software)
+Rrezja GPS: 41.3260–41.3312 N, 19.8175–19.8230 E (rreth 500 m rreze në qendër të Tiranës)
+Timestamp-at reflektojnë oraret e P1: 08:00–21:30, konsistente me UTC+1
+Software: Samsung Camera, Adobe Lightroom (2 foto të edituara)
+Thumbnail EXIF: prezent në të gjitha (i rikuperueshëm edhe pas crop-it)
+
+================================================================================
+SEKSIONI F  -  PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT:
+
+Mëngjes (08:00–09:30): 	Kontrollon Reddit, përgjigje në Stack Overflow
+Paradite (10:00–12:00): GitHub commits, komente teknike
+Drekë (12:30–13:30): 	Twitter scroll, Instagram Story
+Pasdite (14:00–17:00): 	Pak aktivitet (punë intensive)
+Mbrëmje (19:00–23:00): 	Reddit browse, lexim në Medium, Forum.al
+Natën (23:00–08:00): 	Zero aktivitet (fle gjumë)
+
+Ditët me aktivitet më të lartë: E Martë, e Premte, e Shtunë
+Ditët me aktivitet më të ulët: E Diel (shpesh offline)
+
+SJELLJA LINGUISTIKE (për V3 - Stilometri):
+
+Shkruan shqip me ndërhyrje të termave teknikë në anglisht ("framework", "load-bearing", "deadline").
+Fjali mesatarisht të gjata (15–25 fjalë).
+Përdor shpesh "pra", "mendoj që", "sinqerisht", "nuk jam i sigurt".
+Pikësim: shumë presje, pak pikëpresje, përdor "..." shpesh.
+Gabimet tipike: "e" pa theks, mungesë e "ë"-së në shumicën e rasteve.
+Ton: miqësor, joformal, pak vetëpërçmues.
+
+TEMAT E PREFERUARA:
+
+Inxhinieri civile dhe arkitekturë (40% e postimeve)
+Teknologji/programim për inxhinierë (25%)
+Jeta në Tiranë - kafene, evente, ankesa komunale (20%)
+Sport - futboll shqiptar dhe Champions League (10%)
+Random - meme, pyetje, komente (5%)
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score i Pritur    Arsyeja
+-------              --------------    -------
+
+V1 - EXIF            24-25/25          GPS i plotë në 10 imazhe + Model + Timestamp
+V2 - Cross-Platform  18-20/20          8 platforma me username identik
+V3 - Stilometri      18-20/20          Stil i qëndrueshëm, corpus i bollshëm
+V4 - Orare           14-15/15          Pattern i qartë UTC+1, zero noise
+V5 - Rrjeti Social   8-10/10           Shumë nyje bridge cross-platform
+V6 - Breach Data     7-10/10           Email në shërbime të shumta
+
+Bonus konfirmues:     +8 deri +13      GPS konfirmon timezone, username konfirmon email
+TOTAL I PRITUR:       90-100/100       Niveli V – Konfirmim pothuajse i plotë
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.

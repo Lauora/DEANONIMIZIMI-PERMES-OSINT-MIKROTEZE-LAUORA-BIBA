@@ -1,0 +1,69 @@
+[REDDIT - r/privacy - u/random_4729x]
+
+Lexova nje artikull interesant per menyren si platformat e medha mbledhin metadata nga perdoruesit. Eshte shqetesuese sa pak kontroll kemi mbi te dhenat tona kur navigojme ne internet. Edhe me VPN aktiv, cookies dhe browser fingerprinting lejojne identifikim te konsiderueshem.
+
+Besoj se problemi themelor eshte mungesa e edukimit. Shumica e njerezve nuk e dine qe fotot permbajne GPS, qe email-i i tyre eshte ne breach te shumta, ose qe username i njejte ne dy platforma krijon lidhje te dukshme. Nuk eshte ceshtje paranoje. Eshte ceshtje njohurish bazike qe duhet mesuar ne shkolle.
+
+Ka dikush qe ka provuar Mullvad VPN? E kam perdorur per disa muaj dhe jam kenaqur me politiken e tyre no-logs. Megjithate nuk jam i sigurte nese eshte me mire se ProtonVPN per perdorim te perditshmen. Cilat jane pervojat tuaja?
+
+[REDDIT - r/linux - u/random_4729x]
+
+Sapo kalova nga Windows ne Linux Mint ne laptopin e punes. Tranzicioni ishte me i lehte se sa prisja. Shumica e programeve qe perdor kane alternative te mira: LibreOffice per dokumentet, Firefox per browsing, Thunderbird per email.
+
+Nje gje qe me pelqen eshte kontrolli mbi sistemin. Ne Windows nuk dija cfare procesesh ekzekutoheshin ne sfond. Ne Linux mund te shoh cdo gje. Eshte ndjenje ndryshe kur e di qe sistemi yt nuk te monitoron.
+
+Megjithate ka disa sfida. Disa website nuk funksionojne plotesisht ne Firefox Linux. Printeri ishte problem per dy dite derisa gjeta driver-in e duhur. Por ne pergjithesi besoj se ia vlen per cdo person qe ka interesim per privatesi.
+
+[REDDIT - r/opensource - u/random_4729x]
+
+Interesant se sa shume projekte open-source kane arritur nivel profesional keto vitet e fundit. Bitwarden per fjalekalimet, Signal per mesazhet, Nextcloud per storage. Besoj se per shumicen e perdoruesve nuk ka me arsye te varesish nga sherbimet e mbyllura.
+
+Megjithate pranoj qe migrimi nuk eshte i thjeshte per te gjithe. Njerezit jane mesuar me Google Drive dhe iCloud. Nuk eshte e qarte nese alternativat open-source mund te arrijne te njejtin nivel komoditeti pa kompromentuar privatesi. Kjo mbetet sfide e hapur.
+
+Nje ceshtje tjeter interesante eshte qendrueshemeria financiare e projekteve open-source. Shume prej tyre varen nga donacione ose sponsorizime. Besoj se duhet model me i qendrueshemm biznesi per te garantuar vazhdimesine afatgjate.
+
+[TWITTER/X - @thought_echo_47]
+
+Interesant si ndryshon perceptimi i privatesise midis gjeneratave. Te rinjte ndajne gjithcka pa menduar. Te moshuarit nuk ndajne asgje sepse nuk e njohin teknologjine. Askush nuk eshte ne pozicion ideal.
+
+Enkriptimi end-to-end duhet te jete standard. Jo opsion. Jo premium. Standard.
+
+Lexova raportin e ri te EFF per survejancen dixhitale. Shifrat jane shqetesuese. Numri i kerkesave qeveritare per te dhena ka shkeputur rekordin perseri.
+
+Nuk eshte e qarte pse legjislacioni per mbrojtjen e te dhenave personale mbetet kaq i dobet ne shumicen e vendeve. Besoj se interesi ekonomik dominon mbi te drejten individuale.
+
+[HACKER NEWS - user_4729 - komente]
+
+Interesting approach to differential privacy in this paper. The trade-off between utility and protection is well analyzed. However, I believe the epsilon values chosen are too generous for real-world deployment. A stricter bound would reduce data utility but provide meaningful protection.
+
+The discussion around browser fingerprinting keeps evolving. Even with the best extensions, canvas fingerprinting and WebGL hashes create persistent identifiers. I have switched to Firefox with resistFingerprinting enabled but it breaks many websites. Not a practical solution for most users.
+
+One thing that concerns me about password managers is the single point of failure. If the master password is compromised, everything falls. Bitwarden with TOTP and a strong master passphrase mitigates this, but the theoretical risk remains.
+
+Interesting paper on metadata analysis for user identification. The authors demonstrate that posting time patterns alone can narrow down a user's timezone with reasonable accuracy. This has implications for anyone relying solely on IP obfuscation for anonymity.
+
+[FORUM.AL - qytetar_anonim - tema "Kamerat e sigurise ne Tirane"]
+
+Kam vene re qe numri i kamerave te sigurise ne rruge ka shkeputur cdo limit. Nuk eshte e qarte kush i menaxhon, ku ruhen te dhenat, ose kush ka akses. Besoj se duhet transparence me e madhe nga institucionet perkatese.
+
+Nuk jam kunder sigurise publike. Megjithate ekziston nje infrastrukture e re mbikeqyrjeje qe nuk diskutohet publikisht. Kur kombinohet me njohjen faciale, potenciali per keqperdorim eshte real.
+
+[FORUM.AL - qytetar_anonim - tema "Internet ne Shqiperi"]
+
+Cilesia e internetit ne Tirane eshte permiresuar ndjeshem vitet e fundit. Megjithate cmimet jane ende te larta krahasuar me vendet e rajonit. Besoj se duhet me shume konkurrence ne treg per te ulur cmimet.
+
+Gjithashtu me shqeteson mungesa e net neutrality ne legjislacionin shqiptar. Nuk ka garanci ligjore qe ISP-te nuk do te bllokojne ose ngadalesojne sherbime te caktuara. Kjo eshte ceshtje qe duhet adresuar para se te behet problem.
+
+[FORUM.AL - qytetar_anonim - tema "Te dhenat personale dhe institucionet"]
+
+Interesant se sa pak diskutohet ceshtja e te dhenave personale ne kontekstin shqiptar. Institucionet mbledhin informacion por nuk eshte e qarte si mbrohen keto te dhena. Besoj se mungon edhe vetedija edhe infrastruktura per mbrojtje te pershtashme.
+
+Legjislacioni ekziston ne leter. Megjithate zbatimi eshte ceshtje tjeter. Pa inspektime te rregullta dhe pa gjoba te ndjeshme, kompanitee nuk kane nxitje per te investuar ne mbrojtjen e te dhenave.
+
+[SIGNAL GROUP - diskutim privat]
+
+Besoj se alternativat open-source per sherbime cloud jane mjaftueshem te pjekura tani. Nextcloud per storage, Jitsi per video calls, Matrix per mesazhe. Nuk ka arsye te varesish nga Google ose Microsoft per gjera bazike.
+
+Megjithate pranoj qe komoditeti eshte faktor. Njerezit nuk ndryshojne mjete vetem per privatesi. Duhet te jete edhe me e lehte, ose te pakten po aq e lehte. Perndyshe mbetet ceshtje per entuziastet.
+
+Nje ceshtje interesante eshte edhe perditesimi i vazhdueshme i software-it. Shume njerez nuk i perditesojne aplikacionet sepse nuk duan te prishin dicka qe funksionon. Megjithate kjo le hapur dobesi sigurie qe mund te shfrytezohen. Besoj se perditesimet automatike jane zgjidhja me praktike per shumicen.

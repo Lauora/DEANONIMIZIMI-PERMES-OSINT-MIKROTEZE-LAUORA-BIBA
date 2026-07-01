@@ -1,0 +1,103 @@
+post_id,platform,timestamp,content_type,weekday,hour,vpn_active,content_summary
+1,hackernews,1/2/2025 23:39,reply,Thu,23,yes,reply per resistFingerprinting Firefox
+2,reddit,1/2/2025 20:52,post,Thu,20,yes,pyetje per open-source cloud
+3,reddit,1/4/2025 10:18,post,Sat,10,yes,pyetje per open-source cloud
+4,reddit,1/4/2025 20:02,comment,Sat,20,yes,koment per Linux Mint tranzicion
+5,hackernews,1/8/2025 17:58,comment,Wed,17,yes,diskutim per encryption standards
+6,reddit,1/9/2025 12:56,post,Thu,12,yes,pyetje per open-source cloud
+7,hackernews,1/9/2025 21:22,reply,Thu,21,yes,reply per resistFingerprinting Firefox
+8,signal,1/10/2025 21:53,message,Fri,21,yes,mesazh per Jitsi vs Zoom privatesi
+9,hackernews,1/11/2025 14:20,comment,Sat,14,no,diskutim per browser fingerprinting evolim
+10,reddit,1/12/2025 20:00,comment,Sun,20,yes,koment per open-source alternativa
+11,hackernews,1/14/2025 17:00,comment,Tue,17,yes,koment per differential privacy paper
+12,twitter,1/15/2025 20:11,quote_tweet,Wed,20,yes,koment per perceptimin e privatesise
+13,twitter,1/15/2025 19:04,retweet,Wed,19,yes,retweet raport EFF survejance
+14,reddit,1/16/2025 17:55,post,Thu,17,yes,post per Linux Mint eksperience
+15,twitter,1/16/2025 17:18,retweet,Thu,17,yes,retweet raport EFF survejance
+16,hackernews,1/17/2025 10:20,reply,Fri,10,yes,reply per open-source sustainability
+17,signal,1/18/2025 21:09,reply,Sat,21,yes,reply per komoditet vs privatesi
+18,signal,1/18/2025 19:56,message,Sat,19,yes,diskutim per software updates siguri
+19,reddit,1/20/2025 21:16,post,Mon,21,yes,post per Linux Mint eksperience
+20,signal,1/21/2025 13:25,message,Tue,13,yes,mesazh per Nextcloud vs Google Drive
+21,reddit,1/23/2025 11:17,reply,Thu,11,yes,reply per Firefox extensions
+22,reddit,1/23/2025 8:10,post,Thu,8,yes,pyetje per VPN krahasim
+23,hackernews,1/24/2025 19:30,reply,Fri,19,yes,reply per open-source sustainability
+24,reddit,1/25/2025 21:21,post,Sat,21,no,post per Linux Mint eksperience
+25,hackernews,1/28/2025 13:24,comment,Tue,13,no,pergjigje per metadata analysis paper
+26,twitter,1/29/2025 12:19,quote_tweet,Wed,12,yes,mendim per enkriptim standard
+27,reddit,1/29/2025 10:55,post,Wed,10,yes,pyetje per VPN krahasim
+28,reddit,1/30/2025 20:06,comment,Thu,20,no,diskutim per enkriptim email
+29,reddit,1/31/2025 13:04,comment,Fri,13,yes,pergjigje per browser fingerprinting
+30,hackernews,2/1/2025 20:01,comment,Sat,20,yes,pergjigje per metadata analysis paper
+31,forum_al,2/1/2025 13:04,post,Sat,13,yes,post per kamerat e sigurise ne Tirane
+32,reddit,2/4/2025 23:13,reply,Tue,23,yes,koment per password manager risqe
+33,twitter,2/5/2025 12:27,retweet,Wed,12,yes,retweet raport EFF survejance
+34,hackernews,2/5/2025 17:48,comment,Wed,17,yes,pergjigje per metadata analysis paper
+35,reddit,2/6/2025 10:20,reply,Thu,10,yes,reply per Firefox extensions
+36,hackernews,2/6/2025 22:41,reply,Thu,22,yes,reply per open-source sustainability
+37,hackernews,2/7/2025 22:56,comment,Fri,22,no,koment per epsilon values deployment
+38,forum_al,2/8/2025 16:56,post,Sat,16,yes,post per te dhenat personale institucionet
+39,twitter,2/8/2025 19:02,retweet,Sat,19,yes,retweet lajm per legjislacion dixhital
+40,forum_al,2/9/2025 12:59,post,Sun,12,yes,post per te dhenat personale institucionet
+41,forum_al,2/10/2025 9:22,reply,Mon,9,yes,pergjigje per net neutrality legjislacion
+42,hackernews,2/12/2025 12:46,reply,Wed,12,yes,pergjigje per zero-knowledge proofs
+43,reddit,2/13/2025 23:54,post,Thu,23,yes,post per Linux Mint eksperience
+44,reddit,2/13/2025 10:11,post,Thu,10,yes,pyetje per VPN krahasim
+45,reddit,2/14/2025 8:26,comment,Fri,8,yes,pergjigje per browser fingerprinting
+46,twitter,2/14/2025 8:42,quote_tweet,Fri,8,yes,koment per perceptimin e privatesise
+47,reddit,2/15/2025 18:52,post,Sat,18,yes,pyetje per open-source cloud
+48,forum_al,2/17/2025 13:53,reply,Mon,13,yes,pergjigje per survejance publike
+49,signal,2/18/2025 11:21,message,Tue,11,yes,mesazh per Jitsi vs Zoom privatesi
+50,forum_al,2/18/2025 20:42,post,Tue,20,no,post per internet cilesi ne Shqiperi
+51,twitter,2/19/2025 12:51,retweet,Wed,12,yes,retweet raport EFF survejance
+52,signal,2/20/2025 9:21,reply,Thu,9,yes,reply per komoditet vs privatesi
+53,hackernews,2/20/2025 17:58,reply,Thu,17,yes,reply per resistFingerprinting Firefox
+54,reddit,2/22/2025 8:22,post,Sat,8,yes,pyetje per VPN krahasim
+55,reddit,2/23/2025 12:53,reply,Sun,12,yes,koment per password manager risqe
+56,reddit,2/25/2025 16:57,post,Tue,16,no,pyetje per open-source cloud
+57,reddit,2/26/2025 23:01,post,Wed,23,yes,pyetje per VPN krahasim
+58,reddit,2/26/2025 22:46,reply,Wed,22,yes,pergjigje per Nextcloud setup
+59,signal,2/27/2025 20:07,reply,Thu,20,yes,reply per komoditet vs privatesi
+60,reddit,2/28/2025 16:06,comment,Fri,16,yes,diskutim per enkriptim email
+61,hackernews,2/28/2025 19:27,reply,Fri,19,yes,pergjigje per zero-knowledge proofs
+62,reddit,3/1/2025 19:50,comment,Sat,19,yes,koment per open-source alternativa
+63,forum_al,3/1/2025 9:52,post,Sat,9,yes,post per kamerat e sigurise ne Tirane
+64,twitter,3/3/2025 10:36,retweet,Mon,10,yes,retweet lajm per legjislacion dixhital
+65,signal,3/4/2025 19:52,reply,Tue,19,yes,pergjigje per self-hosting
+66,hackernews,3/5/2025 20:47,comment,Wed,20,yes,diskutim per encryption standards
+67,forum_al,3/5/2025 14:17,reply,Wed,14,yes,koment per cmimin e internetit
+68,forum_al,3/6/2025 20:44,post,Thu,20,yes,post per te dhenat personale institucionet
+69,forum_al,3/6/2025 19:46,post,Thu,19,yes,post per internet cilesi ne Shqiperi
+70,reddit,3/7/2025 8:11,reply,Fri,8,yes,reply per Firefox extensions
+71,hackernews,3/7/2025 10:21,reply,Fri,10,yes,reply per open-source sustainability
+72,hackernews,3/8/2025 12:29,comment,Sat,12,yes,diskutim per browser fingerprinting evolim
+73,forum_al,3/8/2025 17:50,post,Sat,17,yes,post per internet cilesi ne Shqiperi
+74,signal,3/9/2025 13:42,reply,Sun,13,yes,pergjigje per Matrix setup
+75,forum_al,3/11/2025 10:21,post,Tue,10,yes,post per te dhenat personale institucionet
+76,reddit,3/11/2025 13:49,post,Tue,13,yes,pyetje per VPN krahasim
+77,hackernews,3/12/2025 13:52,reply,Wed,13,yes,pergjigje per zero-knowledge proofs
+78,reddit,3/12/2025 8:50,comment,Wed,8,yes,koment per GDPR zbatim
+79,reddit,3/13/2025 9:55,comment,Thu,9,yes,diskutim per enkriptim email
+80,twitter,3/13/2025 21:52,retweet,Thu,21,yes,retweet lajm per legjislacion dixhital
+81,reddit,3/14/2025 18:47,comment,Fri,18,yes,koment per VPN no-logs politika
+82,reddit,3/14/2025 20:04,comment,Fri,20,yes,diskutim per privatesi metadata
+83,signal,3/15/2025 8:09,message,Sat,8,yes,mesazh per Nextcloud vs Google Drive
+84,reddit,3/17/2025 23:45,comment,Mon,23,yes,diskutim per privatesi metadata
+85,reddit,3/18/2025 15:06,post,Tue,15,yes,pyetje per open-source cloud
+86,forum_al,3/18/2025 21:40,post,Tue,21,yes,post per te dhenat personale institucionet
+87,reddit,3/19/2025 22:30,reply,Wed,22,yes,koment per password manager risqe
+88,forum_al,3/19/2025 17:10,post,Wed,17,yes,post per internet cilesi ne Shqiperi
+89,hackernews,3/20/2025 13:36,comment,Thu,13,yes,pergjigje per metadata analysis paper
+90,forum_al,3/20/2025 20:37,reply,Thu,20,yes,koment per mbrojtjen e te dhenave
+91,forum_al,3/21/2025 21:53,reply,Fri,21,yes,pergjigje per survejance publike
+92,hackernews,3/21/2025 20:16,comment,Fri,20,yes,koment per epsilon values deployment
+93,hackernews,3/22/2025 20:35,comment,Sat,20,yes,koment per epsilon values deployment
+94,forum_al,3/22/2025 21:40,post,Sat,21,yes,post per te dhenat personale institucionet
+95,forum_al,3/24/2025 9:24,post,Mon,9,yes,post per te dhenat personale institucionet
+96,signal,3/25/2025 10:13,reply,Tue,10,yes,reply per komoditet vs privatesi
+97,hackernews,3/26/2025 22:24,comment,Wed,22,yes,pergjigje per metadata analysis paper
+98,twitter,3/27/2025 17:16,retweet,Thu,17,yes,retweet raport EFF survejance
+99,signal,3/28/2025 20:35,message,Fri,20,yes,mesazh per Nextcloud vs Google Drive
+100,reddit,3/29/2025 19:54,comment,Sat,19,yes,pergjigje per Bitwarden setup
+101,reddit,3/29/2025 20:21,comment,Sat,20,yes,diskutim per enkriptim email
+102,forum_al,3/31/2025 17:50,reply,Mon,17,yes,koment per cmimin e internetit

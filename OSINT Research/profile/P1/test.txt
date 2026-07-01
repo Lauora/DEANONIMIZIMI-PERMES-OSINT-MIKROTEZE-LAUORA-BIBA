@@ -1,0 +1,7 @@
+Kam nje pyetje per projektin qe po bej tani. Po mundohem te llogarit ngarkesen e nje ure te vogel pedonale dhe nuk jam i sigurte per koeficientin e sigurise qe duhet te perdor. Ne standartet europiane eshte ndryshe nga ato amerikane dhe sinqerisht dokumentacioni ne shqip eshte pothuajse inekzistent.
+
+A ka dikush qe ka eksperience me Eurocode? Do te me ndihmonte shume nje pergjigje e shpejte sepse afati eshte javen tjeter. Kam provuar te kerkoj ne Google por shumica e burimeve jane ne gjermanisht ose frengjisht, pra nuk me ndihmon shume.
+
+Gjithashtu po mendoj te perdor Python per te bere kalkulimet automatikisht ne vend qe te llogarit me dore ne Excel. Mendoj qe do te ishte me efikase, sidomos nese duhet te testoj disa skenare ngarkese te ndryshme. Por nuk jam i sigurte nese ia vlen koha per nje projekt te vetem... ndoshta per te ardhmen do te ishte investim i mire.
+
+Nese dikush ka ndonje spreadsheet ose template per Eurocode load combinations do ta vleresoja shume. Pra cdo ndihme eshte e mireseardhur, edhe vetem nje link.

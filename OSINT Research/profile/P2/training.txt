@@ -1,0 +1,76 @@
+[REDDIT - r/graphic_design - u/andi_b_design]
+
+Sot perfundova nje branding package per nje klient te ri dhe jam mjaft i kenaqur me rezultatin. Fillova me moodboard ne Pinterest, pastaj kalova ne Figma per wireframe-in dhe perfundova ne Illustrator per versionin final. Klienti donte dicka moderne por jo teper minimale, pra gjeta nje balans midis elementeve dekorative dhe hapesires se bardhe.
+
+E di qe shume dizajnere sot punojne vetem ne Figma, por une preferoj ta filloj atje dhe ta mbaroj ne Illustrator. Ndoshta eshte zakon i vjeter, por vektoret ne Illustrator me duken me te pastra. A eshte vetem une apo ka te tjere qe punojne keshtu?
+
+Pyetje per dizajneret ketu: si i menaxhoni klientet qe kerkojne revizione pa fund? Kam nje klient qe me ka kerkuar 7 revizione dhe ende nuk eshte i kenaqur. A vendosni limit ne kontrate apo thjesht vazhdoni? Po mendoj te shtoj klauzole per max 3 revizione ne kontraten e re.
+
+[REDDIT - r/figma - u/andi_b_design]
+
+A ka provuar dikush plugin-in "Color Styles" per Figma? Sapo e instalova dhe duket mjaft i dobishem per menaxhimin e paletave. Deri tani e beja manualisht dhe ishte shume kohe e humbur, sidomos kur klienti ndryshon mendje per ngjyrat ne momentin e fundit.
+
+Gjithashtu po kerkoj rekomandime per font pairing tools. Perdor Google Fonts kryesisht por ndonjehere kam veshtiresi te gjej kombinime qe funksionojne mire se bashku. A eshte me mire Fontjoy apo Type Scale?
+
+[GITHUB - andib96 - README.md per repo "portfolio-site"]
+
+# Portfolio Site v1.0
+Personal portfolio website built with Next.js and Tailwind CSS. Designed in Figma first, then coded by hand (mostly). Still learning React properly so some components are probably over-engineered.
+
+## Stack
+- Next.js 14
+- Tailwind CSS
+- Framer Motion (animations)
+- Deployed on Vercel
+
+Open to feedback on the code structure. I'm a designer first, developer second.
+
+[TWITTER/X - @andi_b_96]
+
+Sapo mbarova nje logo redesign qe me mori 3 dite te plota. Klienti: "mund ta besh ne 2 ore?" Ah sikur. #designerlife #tirane
+
+Figma update i ri eshte fenomenal. Auto-layout improvements dhe variable fonts support - kjo ndryshon lojen komplet per design systems. Kush e ka provuar?
+
+Kafeneja ime e preferuar ne Tirane per pune remote: Mon Cheri ne Bllok. WiFi i mire, ambient i qete paradite, kafe e shkelqyer. Nese jeni freelancer ne Tirane provojeni. ☕
+
+Ndonjehere pyes veten pse nuk mesova programim ne vend te dizajnit. Pastaj hap Illustrator, bej dicka te bukur, dhe e kuptoj pse. Dizajni eshte art + logike ne nje. 🎨
+
+Po mendoj te filloj nje YouTube channel per design tutorials ne shqip. A ka interes per dicka te tille? Shume tutoriale jane vetem ne anglisht dhe mendoj qe do ndihmonte komunitetin lokal.
+
+[BEHANCE - andi-berati - pershkrim projekti "Marka Vizuale per Kafene Artizanale"]
+
+Ky projekt perfshin identitetin vizual te plote per nje kafene artizanale fiktive ne Tirane. Duke u inspiruar nga arkitektura brutaliste e qytetit dhe kultura e kafese shqiptare, kam krijuar nje marke qe kombinon elemente moderne me referenca lokale. Paleta e ngjyrave bazohet ne tonet e kafes - kafe e thelle, krem i ngrohte, dhe aksente portokalli.
+
+Procesi filloi me research vizual ne rruget e Tiranes, duke fotografuar fasadat e ndertesave dhe kafeneve ekzistuese. Pastaj zhvillova moodboard, sketche te para me dore, dhe perfundimisht dixhitalizova gjithcka ne Illustrator. Tipografia perdor Playfair Display per headings dhe Inter per body text.
+
+[DRIBBBLE - AndiBerati - pershkrim shot]
+
+Logo exploration for a fintech startup. Clean geometric forms with a gradient accent. The client wanted something that feels "trustworthy but modern" - tried to balance that with rounded corners and a solid blue palette.
+
+Minimal icon set for a travel app. Each icon is built on a 24px grid with consistent 2px stroke weight. Tried to keep them friendly but professional. Feedback welcome!
+
+[INSTAGRAM - andi.b.design - captions]
+
+Puna e sotme: rebranding per nje studio joge ne Tirane 🧘 Paleta pastel + tipografi minimale = qetesi vizuale. Swipe per te pare procesin nga sketchi ne final ➡️ #graphicdesign #branding #tirana
+
+Golden hour ne Tirane hite ndryshe 🌅 Keto ngjyra nuk i riprodhon dot asnje monitor. #tirane #sunset #designerinspiration
+
+Kur klienti thote "beje me kreativ" por nuk jep asnje brief 😅 Kjo eshte sfida me e madhe e dizajnit - te lexosh mendjen e dikujt qe nuk di cfare do. Po mendoj te bej nje post te detajuar per kete teme. #freelancelife #designproblems
+
+[FORUM.AL - andi_berat_user - tema "Freelancing ne Shqiperi"]
+
+A ka freelancere te tjere ketu qe punojne remote per kliente jashte? Po mundohem te kuptoj situaten me tatimin. Duhet te regjistrohesh si biznes individual apo ka menyre tjeter? Kam degjuar per "njesine e vogel" por nuk e kuptoj plotesisht si funksionon.
+
+Gjithashtu cmimi eshte problem - klientet shqiptare presin cmime shume te uleta per dizajn, nderkohe klientet e huaj paguajne 5-10x me shume. A eshte me mire te fokusohesh vetem jashte? Po mendoj te hap profil ne Upwork por kam degjuar qe konkurrenca eshte e forte.
+
+[FORUM.AL - andi_berat_user - tema "Kafenet me te mira per pune remote ne Tirane"]
+
+Per mua Mon Cheri ne Bllok eshte numri nje. WiFi stabil, ambient i mire, dhe nuk te shikojne cudi nese rri 4 ore me laptop. Mjaft e mire edhe Mulliri i Vjeter tek Parku, por WiFi atje eshte pak i dobet ndonjehere.
+
+A ka dikush qe ka provuar co-working spaces ne Tirane? Kam degjuar per disa te reja qe kane hapur por nuk di nese ia vlen cmimi. Per nje freelancer qe sapo ka filluar, 200-300 euro ne muaj per nje desk eshte shume.
+
+[LINKEDIN - andi-berati-design - post]
+
+Excited to share my latest project: a complete visual identity system for an artisanal coffee brand. From mood boards to final deliverables, this project challenged me to blend modern design principles with local Tirana aesthetics. Full case study on my Behance. #GraphicDesign #Branding #Tirana
+
+Looking for collaboration opportunities with developers in Albania. I design, you code. If you are working on a startup or side project and need design support, let's connect! #Design #Albania #Startup

@@ -1,0 +1,7 @@
+I recently discovered a promising new method for analyzing crack patterns in historical stone structures using close-range photogrammetry. The preliminary results from our pilot study at the Terme di Caracalla are encouraging. The technique allows us to create millimeter-accurate 3D models of surface deterioration and track changes over time.
+
+The integration with ArchiCAD heritage libraries enables direct overlay of decay mapping onto the architectural model. This streamlines the documentation process significantly compared to traditional manual survey methods. La precisione del rilievo digitale supera di gran lunga i metodi tradizionali, e questo rappresenta un passo fondamentale per il nostro settore.
+
+However, more testing is needed before publication. The lighting conditions in outdoor environments introduce noise that must be filtered. We are developing a calibration protocol that should address this limitation. The goal is to establish a reproducible workflow that other restoration practices can adopt without requiring specialized training beyond basic photogrammetry skills.
+
+Il prossimo passo sara testare il protocollo su una facciata barocca con decorazioni complesse. Se i risultati confermano le aspettative, pubblicheremo il paper entro la fine dell'anno.

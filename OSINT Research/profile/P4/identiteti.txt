@@ -1,0 +1,203 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P4
+================================================================================
+
+                         KLASIFIKIMI: MBROJTJE E AVANCUAR
+                         Kodi: P4 
+
+================================================================================
+SEKSIONI A - IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë: 	[I PANJOHUR]
+Data e lindjes: [E PANJOHUR]
+Gjinia: 	[E PANJOHUR - shkruan qëllimisht në mënyrë asnjanëse]
+Profesioni: 	[I PANJOHUR - ka njohuri të thella në siguri kibernetike,
+		por asnjëherë nuk e zbulon këtë drejtpërdrejt]
+
+Qyteti real: 	Tiranë, Shqipëri (i fshehur me çdo mjet të mundshëm)
+Timezone real: 	UTC+1 - i pamundur për t’u inferuar nga oraret
+Gjuha: 		Shqip dhe anglisht (alternon qëllimisht)
+
+SHËNIM METODOLOGJIK: 
+
+P4 simulon një person me ekspertizë të lartë në siguri kibernetike dhe OPSEC. Ka njohuri 
+profesionale për teknikat OSINT dhe ka ndërtuar mbrojtje specifike kundër çdo vektori. 
+Dallohet nga P3 në tre aspekte:
+	1. Përdor Tor, jo vetëm VPN.
+	2. Modifikon aktivisht stilin e shkrimit.
+	3. Poston në orare qëllimisht kaotike.
+
+================================================================================
+SEKSIONI B - KREDENCIALET DIGJITALE
+================================================================================
+
+Email: 			qrz_session_41@example.com (vetëm për GitHub)
+Email dytësor: 		throwaway_8472_inbox@example.com (për regjistrime)
+Email dispozitiv: 	Përdor SimpleLogin aliases; adresë e re për çdo shërbim.
+
+Password pattern:	KeePassXC; 24+ karaktere, të gjeneruara rastësisht, pa asnjë ripërdorim.
+PGP Key:		Përdoret për komunikim të enkriptuar (Kleopatra/GPG4Win).
+
+================================================================================
+SEKSIONI C - PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username             Statusi    Aktiviteti
+---  ---------         --------             -------    ----------
+
+1.   Reddit            u/throwaway_8472x    Aktiv      Rreth 20 komente (vetëm në r/privacy dhe r/opsec)
+2.   GitHub            randomdev_7b4k       Aktiv      3 repo (security tools), forked repos
+3.   Hacker News       qrz_null             Pak aktiv  6 komente (vetëm siguri)
+4.   Forum.al          lurker_anon_99       Pak aktiv  5 postime (vetëm legjislacion)
+5.   Matrix/Element    @rnd_user:matrix.org Aktiv      Pjesëmarrje në dhoma privatësie dhe sigurie
+6.   Keybase           rnddev_sec           Pak aktiv  Identitet kriptografik
+
+Username Pattern:   	Komplet të ndryshme, pa asnjë lidhje semantike.
+                    		Reddit: throwaway + numra (duket si llogari e përkohshme).  
+                		GitHub: fjalë + numra të rastësishëm (randomdev_7b4k).  
+                		Hacker News (HN): karaktere abstrakte (qrz_null).  
+                		Forum.al: përshkrim i përgjithshëm (lurker_anon_99).  
+                		Matrix/Element: komplet i rastësishëm (rnd_user).  
+                		Keybase: variante pa lidhje të drejtpërdrejtë (rnddev_sec).
+
+PLATFORMAT E SHMANGURA:
+
+Instagram: Nuk ka; zero prani vizuale.
+Twitter/X: Nuk ka; konsiderohet shumë ekspozues dhe me metadata të shumta.
+LinkedIn: Nuk ka; lidh identitetin real.
+Facebook: Nuk ka.
+Medium: Nuk ka; stilometria e artikujve të gjatë konsiderohet rrezik.
+Stack Overflow: Nuk ka; pyetjet specifike mund të zbulojnë profesionin.
+
+Bio Pattern:        Zero bio në çdo platformë. Asnjëherë foto, asnjëherë përshkrim dhe asnjëherë lidhje me platforma të tjera.
+
+Avatar:             Avatar standard në çdo platformë. Asnjëherë imazh i ngarkuar.
+
+================================================================================
+SEKSIONI D - PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Laptop kryesor: 	ThinkPad X1 Carbon me Qubes OS
+			(Qubes izolon çdo aktivitet në makinë virtuale të ndarë)
+
+Laptop rezervë: 	Chromebook me VPN për aktivitet jo sensitiv.
+Smartphone: 		GrapheneOS (Pixel 6a), pa Google Services.
+Tor: 			Tor Browser; gjithmonë për aktivitet pseudonim.
+VPN: 			Mullvad VPN si shtresë shtesë (Tor over VPN).
+DNS: 			DNS-over-HTTPS nëpërmjet Tor.
+Shfletuesi: 		Tor Browser (për aktivitet pseudonim) / Brave (për përdorim të përgjithshëm).
+EXIF: 			Nuk ngarkon asnjëherë imazhe personale.
+			Nëse ka nevojë për imazh, përdor fotografi stock pa metadata.
+
+Cookies: 		Tor Browser i fshin automatikisht.
+JavaScript: 		Çaktivizuar në Tor Browser (NoScript, strictest mode).
+Password Manager:	KeePassXC (lokal, jo cloud).
+2FA: 			Çelës fizik sigurie (YubiKey 5 NFC) për çdo llogari.
+Email Aliases: 		SimpleLogin; adresë unike për çdo regjistrim.
+MAC Address: 		Randomized në çdo lidhje WiFi.
+
+================================================================================
+SEKSIONI E - METADATA EXIF
+================================================================================
+
+STRATEGJIA: P4 NUK ngarkon asnjëherë imazhe personale online.
+
+Nëse ka nevojë për imazh në një koment ose postim, përdor:
+	Fotografi stock nga Unsplash/Pexels (pa metadata).
+	Screenshots (që nuk kanë EXIF GPS).
+	Imazhe të gjeneruara (pa metadata).
+
+
+Imazhi  EXIF Status         	 Shenime
+------  -----------         	 -------
+01-10   ZERO IMAZHE PERSONALE  	 P4 nuk ngarkon imazhe; vektori është eliminuar.
+
+
+Për testim: 10 imazhe stock/neutrale me EXIF të fshirë: C:\Tools\exiftool.exe -all= -overwrite_original *.jpg
+
+REZULTAT V1: Score = 0/25; vektori është eliminuar plotësisht.
+
+================================================================================
+SEKSIONI F - PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT - QËLLIMISHT KAOTIKE:
+
+P4 poston në orare të randomizuara për të shmangur inferimin e timezone-it. Përdor një skript Python që i kujton kur të postojë:
+
+	import random
+  	print(f"Post at {random.randint(0,23):02d}:{random.randint(0,59):02d}")
+
+Rezultati: postime në 02:00, 11:00, 18:00, 04:00, 15:00, 23:00; pa model të qëndrueshëm.
+Megjithatë, nuk është perfekt. Ka një tendencë të lehtë drejt mesditës (12:00-16:00), sepse është më e lehtë të postohet gjatë ditës sesa të zgjohesh në 03:00. Kjo tendencë e lehtë është pika e vetme e dobët e V4.
+
+Ditët e postimit: Pa preferencë; poston në çdo ditë pa dallim.
+
+
+SJELLJA LINGUISTIKE - MODIFIKIM AKTIV:
+
+Teknika 1 - Fjali të shkurtra
+Shkruan qëllimisht fjali me 5-10 fjalë. Asnjë fjali e gjatë. Kjo ndryshon nga stili natyral (15-25 fjalë).
+
+Teknika 2 - Fjalor i kufizuar
+Shmang fjalët që përdor shpesh në jetën e përditshme. Përdor fjalë të përgjithshme dhe neutrale.
+
+Teknika 3 - Pa përzierje shqip-anglisht
+Shkruan ose tërësisht shqip ose tërësisht anglisht. Asnjëherë përzierje, sepse modeli i përzierjes mund të jetë identifikues.
+
+Teknika 4 - Pikësim minimal
+Përdor vetëm pikë dhe presje. Asnjëherë "...", "!", "-", ";".
+Kjo është qëllimisht monotone.
+
+Teknika 5 - Pa fjalë personale
+Asnjëherë nuk përdor fjalë si "mendoj", "besoj", "ndiej", "preferoj". Përdor gjuhë impersonale: "Është e mundur që", "Ka argumente për", "Evidenca sugjeron".
+
+
+PIKAT E DOBËTA STILOMETRIKE:
+
+Fjalitë e shkurtra vetë përbëjnë një model, pasi shumica e njerëzve shkruajnë me gjatësi të ndryshme.
+Mungesa e emocioneve mund të jetë identifikuese (tekste me stil mekanik).
+Tema e ngushtë (vetëm siguria) redukton hapësirën e kandidatëve.
+Përdor fjalën "komplet" më shpesh se mesatarja (zakon i pavetëdijshëm).
+
+
+TEMAT E PREFERUARA:
+
+Siguri kibernetike dhe OPSEC (50%).
+Privatësi digjitale dhe legjislacion (25%).
+Kriptografi dhe protokolle (15%).
+Legjislacion digjital (10%).
+
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score i Pritur    Arsyeja
+-------              --------------    -------
+V1 - EXIF            0/25              Zero imazhe personale.
+V2 - Cross-Platform  0/20              Username plotësisht të ndryshme; Sherlock nuk gjen lidhje.
+V3 - Stilometri      4-6/20            Stili i modifikuar, por jo perfekt; disa modele mbeten.
+V4 - Orare           3-5/15            Kaotik, por me një bias të lehtë ditor.
+V5 - Rrjeti Social   0-1/10            Pothuajse zero mbivendosje; rrjete të izoluara.
+V6 - Breach Data     0/10              SimpleLogin aliases, email unik, KeePassXC.
+
+Bonus konfirmues:     +0               Asnjëherë nuk ka konfirmim ndër-vektor.
+TOTAL I PRITUR:       7-12/100         Niveli I; de-anonimizimi praktikisht i pamundur.
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.

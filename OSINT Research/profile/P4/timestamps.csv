@@ -1,0 +1,50 @@
+post_id,platform,timestamp,content_type,weekday,hour,vpn_active,content_summary
+1,reddit,1/5/2025 11:25,reply,Sun,11,tor,reply per Qubes OS setup
+2,hackernews,1/6/2025 8:37,comment,Mon,8,tor,diskutim per certificate transparency
+3,forum_al,1/7/2025 17:19,post,Tue,17,tor,post per kamerat ne rruge
+4,reddit,1/9/2025 14:13,comment,Thu,14,tor,diskutim per browser fingerprinting
+5,hackernews,1/10/2025 18:38,reply,Fri,18,tor,reply per epsilon values debate
+6,reddit,1/11/2025 8:44,reply,Sat,8,tor,pergjigje per GrapheneOS
+7,keybase,1/12/2025 9:12,post,Sun,9,tor,key fingerprint verification update
+8,github,1/15/2025 8:02,issue_comment,Wed,8,tor,koment per bug report metadata
+9,github,1/16/2025 12:06,pr_review,Thu,12,tor,review pull request security fix
+10,hackernews,1/17/2025 16:35,reply,Fri,16,tor,reply per epsilon values debate
+11,reddit,1/18/2025 17:11,comment,Sat,17,tor,koment per metadata rreziqe
+12,forum_al,1/22/2025 9:26,reply,Wed,9,tor,koment per komisionerin informimit
+13,reddit,1/23/2025 12:04,reply,Thu,12,tor,reply per Qubes OS setup
+14,github,1/24/2025 18:59,commit,Fri,18,tor,commit dns-leak-checker update
+15,hackernews,1/25/2025 17:29,reply,Sat,17,tor,pergjigje per reproducible builds
+16,hackernews,1/26/2025 21:24,reply,Sun,21,tor,pergjigje per reproducible builds
+17,github,1/27/2025 21:23,issue_comment,Mon,21,tor,koment per dependency security
+18,reddit,1/30/2025 11:32,comment,Thu,11,tor,pergjigje per password reuse
+19,matrix,1/31/2025 8:45,message,Fri,8,tor,mesazh per Matrix e2ee protokoll
+20,reddit,2/1/2025 15:56,comment,Sat,15,tor,pergjigje per password reuse
+21,reddit,2/4/2025 12:31,comment,Tue,12,tor,koment per kompartmentalizim
+22,reddit,2/5/2025 0:45,reply,Wed,0,tor,koment per signal vs alternatives
+23,matrix,2/9/2025 13:54,reply,Sun,13,tor,reply per Dendrite vs Synapse
+24,github,2/10/2025 14:36,issue_comment,Mon,14,tor,pergjigje per feature request
+25,github,2/11/2025 17:32,issue_comment,Tue,17,tor,koment per bug report metadata
+26,matrix,2/13/2025 15:48,message,Thu,15,tor,diskutim per hardware security keys
+27,keybase,2/14/2025 13:49,key_update,Fri,13,tor,scheduled key rotation
+28,keybase,2/15/2025 3:25,key_update,Sat,3,tor,scheduled key rotation
+29,reddit,2/18/2025 7:09,reply,Tue,7,tor,reply per Qubes OS setup
+30,hackernews,2/19/2025 9:06,comment,Wed,9,tor,pergjigje per metadata analysis paper
+31,matrix,2/21/2025 23:00,reply,Fri,23,tor,reply per Dendrite vs Synapse
+32,hackernews,2/22/2025 10:34,reply,Sat,10,tor,pergjigje per reproducible builds
+33,github,2/23/2025 12:10,issue_comment,Sun,12,tor,pergjigje per feature request
+34,github,2/27/2025 10:50,commit,Thu,10,tor,commit dns-leak-checker update
+35,github,3/4/2025 17:46,pr_review,Tue,17,tor,koment per code audit
+36,forum_al,3/5/2025 22:36,post,Wed,22,tor,post per kamerat ne rruge
+37,reddit,3/7/2025 23:00,reply,Fri,23,tor,pergjigje per GrapheneOS
+38,github,3/9/2025 2:04,issue_comment,Sun,2,tor,koment per bug report metadata
+39,keybase,3/12/2025 15:25,key_update,Wed,15,tor,scheduled key rotation
+40,keybase,3/13/2025 13:08,post,Thu,13,tor,PGP key rotation announcement
+41,github,3/17/2025 19:05,commit,Mon,19,tor,commit metadata-scrubber update
+42,matrix,3/18/2025 1:35,reply,Tue,1,tor,pergjigje per federated systems
+43,matrix,3/19/2025 3:06,reply,Wed,3,tor,pergjigje per federated systems
+44,github,3/20/2025 21:32,commit,Thu,21,tor,commit dns-leak-checker update
+45,matrix,3/21/2025 9:57,message,Fri,9,tor,diskutim per hardware security keys
+46,hackernews,3/23/2025 16:19,reply,Sun,16,tor,pergjigje per reproducible builds
+47,hackernews,3/25/2025 23:40,comment,Tue,23,tor,pergjigje per metadata analysis paper
+48,reddit,3/26/2025 19:43,comment,Wed,19,tor,diskutim per browser fingerprinting
+49,github,3/31/2025 15:30,commit,Mon,15,tor,commit verification mode fix

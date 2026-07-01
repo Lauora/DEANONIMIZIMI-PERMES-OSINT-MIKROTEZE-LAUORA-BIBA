@@ -1,0 +1,187 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P3
+================================================================================
+
+                         KLASIFIKIMI: MBROJTJE MESATARE
+                         Kodi: P3
+
+================================================================================
+SEKSIONI A - IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë: 		[I PANJOHUR - ky person nuk përdor emrin real online]
+Data e lindjes: 	[E PANJOHUR]
+Gjinia: 		[E PANJOHUR - shkruan në mënyrë që nuk e zbulon]
+Profesioni: 		[I PANJOHUR - diskuton tema të përgjithshme]
+Qyteti real: 		Tiranë, Shqipëri (i fshehur në mënyrë aktive)
+Timezone real: 		UTC+1, por i maskuar me VPN konsistent.
+Gjuha: 			Shqip, me njohuri të mira të anglishtes.
+
+SHËNIM METODOLOGJIK: 
+
+P3 simulon një person që ka vetëdije mesatare për privatësinë DIGJITALE. Ka lexuar artikuj për 
+OSINT dhe privatësi, përdor VPN në mënyrë konsistente, username të ndryshëm dhe auto-strip EXIF. 
+Megjithatë, nuk është ekspert; ka boshllëqe në mbrojtje që vektorët e sjelljes (stilometri dhe 
+oraret) mund t’i kapin.
+
+================================================================================
+SEKSIONI B - KREDENCIALET DIGJITALE
+================================================================================
+
+Email kryesor: 		user4729x@example.com (vetëm për Reddit)
+Email dytësor: 		inbox_rnd_47@example.com (vetëm për forume)
+Email për blerje: 	shop_temp_2025@example.com (vetëm për shërbime)
+Password pattern:       Të gjeneruara me Bitwarden; 16+ karaktere, unike.
+Shënim: 		Nuk i ripërdor asnjëherë fjalëkalimet; password manager-i është i konfiguruar mirë.
+
+================================================================================
+SEKSIONI C - PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username             Statusi    Aktiviteti
+---  ---------         --------             -------    ----------
+
+1.   Reddit            u/random_4729x       Aktiv      Rreth 25 komente dhe 3 postime
+2.   Twitter/X         @thought_echo_47     Aktiv      Rreth 20 tweets (retweets dhe opinione)
+3.   Hacker News       user_4729            Aktiv      10 komente (teknologji)
+4.   Forum.al          qytetar_anonim       Pak aktiv  8 postime (çështje lokale)
+5.   Signal Groups     [anonim]             Aktiv      Pjesëmarrje në grupe diskutimi pa emër përdoruesi publik
+
+Username Pattern:   Unik për çdo platformë, pa lidhje të drejtpërdrejtë midis tyre.
+                    	Reddit: numra të rastësishëm (4729x).
+                    	Twitter: fjalë abstrakte (thought_echo).
+                    	Hacker News(HN): neutral (user_4729; koincidencë numrash, por pa lidhje).
+                    	Forum.al: përshkrim i përgjithshëm (qytetar_anonim).
+
+PLATFORMA TE SHMANGURA QËLLIMISHT:
+
+Instagram: Nuk ka; shmang platformat me foto.
+LinkedIn: Nuk ka; lidh identitetin real.
+Facebook: Nuk ka; shmang rrjetet me emrin real.
+GitHub: Nuk ka; nuk është programues.
+Behance: Nuk ka.
+
+Bio Pattern:        Minimale dhe joidentifikuese.
+                    	Reddit:   Bosh (pa bio).
+                   	Twitter:  "." (një pikë; asgjë).
+			Hacker News(HN): Bosh.
+			Forum.al: "Qytetar i interesuar"
+
+Avatar Pattern:     Avatar standard në çdo platformë; asnjëherë fotografi personale.
+
+================================================================================
+SEKSIONI D - PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Smartphone: 	Google Pixel 7a (për përdorim personal)
+Laptop: 	ThinkPad T480 me Linux Mint
+Shfletuesi: 	Firefox me uBlock Origin dhe Privacy Badger
+
+VPN: 		Mullvad VPN, gjithmonë aktiv (90%+ e kohës)
+		E fik vetëm në WiFi-n e shtëpisë (10% e kohës; pikë e dobët).
+
+Tor: 		E njeh, por nuk e përdor rregullisht.
+DNS: 		Cloudflare 1.1.1.1 me DNS-over-HTTPS
+
+Password manager: Bitwarden (self-hosted)
+2FA: 		TOTP në çdo llogari (Aegis Authenticator)
+EXIF: 		Scrambled Exif app; auto-strip para çdo shpërndarjeje.
+Cookies: 	Fshihen automatikisht pas mbylljes së shfletuesit.
+
+================================================================================
+SEKSIONI E - METADATA EXIF
+================================================================================
+
+STRATEGJIA: P3 përdor Scrambled Exif, i cili fshin automatikisht EXIF-in para se të ndajë ose ngarkojë çdo imazh. 
+Efektiviteti: 100%.
+
+Imazhi  EXIF Status     GPS       Model     Timestamp    Shenime
+------  -----------     ---       -----     ---------    -------
+01      AUTO-FSHIRË     -         -         -            Scrambled Exif
+02      AUTO-FSHIRË     -         -         -            Scrambled Exif
+03      AUTO-FSHIRË     -         -         -            Scrambled Exif
+04      AUTO-FSHIRË     -         -         -            Scrambled Exif
+05      AUTO-FSHIRË     -         -         -            Scrambled Exif
+06      AUTO-FSHIRË     -         -         -            Scrambled Exif
+07      AUTO-FSHIRË     -         -         -            Scrambled Exif
+08      AUTO-FSHIRË     -         -         -            Scrambled Exif
+09      AUTO-FSHIRË     -         -         -            Scrambled Exif
+10      AUTO-FSHIRË     -         -         -            Scrambled Exif
+
+REZULTAT V1: Score = 0/25; auto-strip eliminon plotësisht vektorin EXIF.
+
+================================================================================
+SEKSIONI F - PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT:
+
+Mëngjes (08:30-10:00): 		Reddit scroll dhe komentim i shpejtë.
+Paradite (10:00-13:00): 	Lexim në Hacker News, retweet në Twitter/X (rrallë).
+Pasdite (14:00-18:00): 		Pak aktiv.
+Mbrëmje (19:30-22:30): 		Reddit, Forum.al, Signal.
+Natën (22:30-08:30): 		Zero.
+VPN Shift: 			Mullvad VPN shton noise në IP, por jo në orare. Problemi është se, edhe me VPN, 
+				oraret e postimit reflektojnë UTC+1. Kjo është pika e dobët e P3; sjellja biologjike nuk maskohet me VPN.
+
+
+Ditët më aktive: E Enjte, e Shtunë.
+Ditët më pak aktive: E Diel, e Hënë.
+
+
+SJELLJA LINGUISTIKE (per V3 - Stilometri):
+
+Shkruan shqip korrekte, me pak anglicizma (përpiqet t’i shmangë).
+Fjali mesatare (12-20 fjalë).
+Shmang frazën "mendoj që"; e ka zëvendësuar me "besoj se" dhe "më duket".
+Shmang fjalën "pra"; përdor "prandaj" ose "kështu që".
+Pikësimi: më i kontrolluar se P1/P2; më pak presje, më shumë pika.
+Nuk përdor emoji asnjëherë.
+Nuk përdor "..." asnjëherë.
+Toni: neutral, informativ, jopersonal.
+Përpiqet të mos zbulojë profesionin, qytetin ose interesat personale.
+Por ka zakone që nuk i vetëdijëson; përdor fjalën "interesant" shumë shpesh, fillon fjali me "Besoj se" 
+dhe "Nuk është e qartë", si edhe përdor "megjithatë" më shumë se mesatarja. Këto janë sinjale për stilometri.
+
+
+TEMAT E PREFERUARA:
+
+Privatësi dhe siguri digjitale (30%).
+Teknologji: software, open source, Linux (25%).
+Çështje shoqërore dhe politikë (vetëm në nivel të përgjithshëm) (20%).
+Lajme: komente mbi ngjarje aktuale (15%).
+Të ndryshme: pyetje neutrale (10%).
+
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score i Pritur    Arsyeja
+-------              --------------    -------
+
+V1 - EXIF            0/25              Auto-strip 100% efektiv
+V2 - Cross-Platform  0-2/20            Username krejtësisht të ndryshëm; Sherlock nuk gjen lidhje.
+V3 - Stilometri      7-10/20           Përpiqet ta ndryshojë stilin, por ka zakone të pavetëdijshme.
+V4 - Orare           8-10/15           VPN fsheh IP-në, por jo oraret; UTC+1 ende mund të inferohet.
+V5 - Rrjeti Social   2-4/10            Rrjet shumë i hollë; pak nyje dhe 1-2 ura lidhëse.
+V6 - Breach Data     0/10              Email unik për çdo shërbim dhe llogari të reja.
+
+Bonus konfirmues:     +0 deri +2       Vetëm stilometria dhe oraret mund të ofrojnë konfirmim.
+TOTAL I PRITUR:       17-28/100        Niveli I-II; deanonimizimi është shumë i vështirë.
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.

@@ -1,0 +1,160 @@
+post_id,platform,timestamp,content_type,weekday,hour,vpn_active,content_summary
+1,instagram,1/1/2025 22:27,reel,Wed,22,no,reel processo fotogrammetrico
+2,instagram,1/2/2025 21:24,reel,Thu,21,no,reel timelapse restauro facciata
+3,linkedin,1/3/2025 23:06,post,Fri,23,no,post looking for 3D scanning collaborator
+4,linkedin,1/4/2025 18:26,share,Sat,18,no,share Journal of Architectural Conservation article
+5,github,1/4/2025 21:19,commit,Sat,21,no,commit archicad heritage tools update
+6,linkedin,1/4/2025 17:03,post,Sat,17,no,post Palazzo Barberini milestone
+7,twitter,1/6/2025 11:29,tweet,Mon,11,no,tweet scoperta dettaglio Borromini
+8,archdaily,1/6/2025 15:32,comment,Mon,15,no,comment on glass insertion debate
+9,instagram,1/7/2025 20:34,photo,Tue,20,no,foto Pantheon al tramonto
+10,instagram,1/7/2025 15:44,photo,Tue,15,no,foto Trastevere nebbia mattina
+11,archdaily,1/7/2025 23:24,save,Tue,23,no,saved Rome urban renewal article
+12,twitter,1/8/2025 14:56,retweet,Wed,14,no,retweet notizia patrimonio culturale
+13,instagram,1/9/2025 22:47,story,Thu,22,no,story Roma vista dal ponte
+14,twitter,1/9/2025 11:59,retweet,Thu,11,no,retweet articolo restauro monumenti
+15,linkedin,1/10/2025 17:45,post,Fri,17,no,post Palazzo Barberini milestone
+16,reddit,1/10/2025 16:58,post,Fri,16,no,post on cross-border methodology
+17,reddit,1/10/2025 23:48,reply,Fri,23,no,reply on Portland cement damage
+18,instagram,1/11/2025 22:23,story,Sat,22,no,story Roma vista dal ponte
+19,linkedin,1/12/2025 18:31,post,Sun,18,no,post Palazzo Barberini milestone
+20,linkedin,1/13/2025 23:29,share,Mon,23,no,share heritage technology news
+21,archdaily,1/14/2025 11:54,save,Tue,11,no,saved Rome urban renewal article
+22,archdaily,1/14/2025 14:33,comment,Tue,14,no,comment on glass insertion debate
+23,reddit,1/15/2025 14:04,post,Wed,14,no,post on cross-border methodology
+24,archdaily,1/15/2025 7:56,save,Wed,7,no,saved heritage restoration project
+25,twitter,1/16/2025 8:45,retweet,Thu,8,no,retweet notizia patrimonio culturale
+26,reddit,1/16/2025 21:16,post,Thu,21,no,post on Colosseo restoration visit
+27,reddit,1/17/2025 22:27,comment,Fri,22,no,reply on seismic reinforcement methods
+28,instagram,1/17/2025 11:07,story,Fri,11,no,story da cantiere lavoro
+29,twitter,1/17/2025 23:00,tweet,Fri,23,no,tweet convegno Milano presentazione
+30,linkedin,1/18/2025 12:48,post,Sat,12,no,post looking for 3D scanning collaborator
+31,instagram,1/19/2025 9:30,photo,Sun,9,no,foto Trastevere nebbia mattina
+32,twitter,1/20/2025 16:31,reply,Mon,16,no,reply on heritage conservation debate
+33,archdaily,1/21/2025 10:07,comment,Tue,10,no,comment on modern services in historic building
+34,instagram,1/21/2025 11:17,photo,Tue,11,no,foto fotogrammetria San Carlo Borromini
+35,researchgate,1/22/2025 21:40,paper_update,Wed,21,no,new citation added conservation paper
+36,linkedin,1/23/2025 19:32,share,Thu,19,no,share Journal of Architectural Conservation article
+37,twitter,1/24/2025 16:02,retweet,Fri,16,no,retweet notizia patrimonio culturale
+38,linkedin,1/24/2025 21:46,share,Fri,21,no,share heritage technology news
+39,archdaily,1/24/2025 13:59,save,Fri,13,no,saved Rome urban renewal article
+40,linkedin,1/25/2025 18:49,comment,Sat,18,no,reply on conservation methodology article
+41,instagram,1/25/2025 20:52,reel,Sat,20,no,reel processo fotogrammetrico
+42,github,1/25/2025 9:00,commit,Sat,9,no,commit GDL parametric column fix
+43,linkedin,1/26/2025 21:42,comment,Sun,21,no,comment on colleague restoration project
+44,twitter,1/27/2025 12:15,reply,Mon,12,no,risposta collega su restauro
+45,archdaily,1/28/2025 19:31,comment,Tue,19,no,comment on adaptive reuse project review
+46,linkedin,1/28/2025 20:17,share,Tue,20,no,share heritage technology news
+47,reddit,1/29/2025 10:07,reply,Wed,10,no,reply on Portland cement damage
+48,reddit,1/29/2025 12:32,comment,Wed,12,no,reply on seismic reinforcement methods
+49,archdaily,1/30/2025 23:02,comment,Thu,23,no,comment on modern services in historic building
+50,researchgate,1/30/2025 22:58,paper_update,Thu,22,no,new citation added conservation paper
+51,linkedin,1/31/2025 23:05,share,Fri,23,no,share heritage technology news
+52,archdaily,1/31/2025 18:34,save,Fri,18,no,saved Rome urban renewal article
+53,instagram,1/31/2025 10:03,story,Fri,10,no,story Roma vista dal ponte
+54,instagram,2/1/2025 18:54,photo,Sat,18,no,foto dettaglio restauro Palazzo Farnese
+55,linkedin,2/1/2025 11:02,comment,Sat,11,no,comment on colleague restoration project
+56,archdaily,2/1/2025 10:06,comment,Sat,10,no,comment on modern services in historic building
+57,twitter,2/3/2025 8:07,retweet,Mon,8,no,retweet articolo restauro monumenti
+58,instagram,2/4/2025 10:50,story,Tue,10,no,story da cantiere lavoro
+59,linkedin,2/4/2025 15:22,share,Tue,15,no,share heritage technology news
+60,twitter,2/4/2025 21:51,retweet,Tue,21,no,retweet articolo restauro monumenti
+61,reddit,2/5/2025 19:34,comment,Wed,19,no,comment on Baroque facade conservation
+62,twitter,2/6/2025 19:31,retweet,Thu,19,no,retweet notizia patrimonio culturale
+63,reddit,2/6/2025 15:52,post,Thu,15,no,post on cross-border methodology
+64,researchgate,2/7/2025 20:20,comment,Fri,20,no,comment on peer review feedback
+65,archdaily,2/8/2025 18:06,comment,Sat,18,no,comment on adaptive reuse project review
+66,instagram,2/8/2025 8:02,story,Sat,8,no,story Roma vista dal ponte
+67,twitter,2/8/2025 10:19,tweet,Sat,10,no,tweet seminario fotogrammetria beni culturali
+68,linkedin,2/9/2025 21:25,share,Sun,21,no,share Journal of Architectural Conservation article
+69,instagram,2/10/2025 11:54,photo,Mon,11,no,foto dettaglio restauro Palazzo Farnese
+70,twitter,2/10/2025 21:12,retweet,Mon,21,no,retweet articolo restauro monumenti
+71,archdaily,2/11/2025 19:41,comment,Tue,19,no,comment on adaptive reuse project review
+72,linkedin,2/12/2025 22:26,comment,Wed,22,no,reply on conservation methodology article
+73,reddit,2/13/2025 22:40,reply,Thu,22,no,reply on Portland cement damage
+74,linkedin,2/14/2025 21:48,comment,Fri,21,no,comment on colleague restoration project
+75,twitter,2/14/2025 13:24,tweet,Fri,13,no,tweet Roma primavera passeggiata Tevere
+76,researchgate,2/14/2025 18:17,paper_update,Fri,18,no,paper update Baroque facades methodology
+77,twitter,2/15/2025 11:36,tweet,Sat,11,no,tweet scoperta dettaglio Borromini
+78,instagram,2/15/2025 9:59,photo,Sat,9,no,foto Pantheon al tramonto
+79,instagram,2/16/2025 20:57,story,Sun,20,no,story materiali restauro laboratorio
+80,twitter,2/17/2025 21:22,tweet,Mon,21,no,tweet Roma primavera passeggiata Tevere
+81,twitter,2/18/2025 11:41,reply,Tue,11,no,risposta collega su restauro
+82,archdaily,2/18/2025 12:29,comment,Tue,12,no,comment on glass insertion debate
+83,instagram,2/19/2025 11:53,story,Wed,11,no,story Roma vista dal ponte
+84,reddit,2/19/2025 8:14,comment,Wed,8,no,comment on adaptive reuse project
+85,twitter,2/20/2025 14:31,reply,Thu,14,no,risposta collega su restauro
+86,linkedin,2/21/2025 18:28,post,Fri,18,no,post Palazzo Barberini milestone
+87,linkedin,2/21/2025 12:54,share,Fri,12,no,share heritage technology news
+88,archdaily,2/21/2025 19:51,comment,Fri,19,no,comment on glass insertion debate
+89,reddit,2/22/2025 13:50,post,Sat,13,no,post on cross-border methodology
+90,researchgate,2/22/2025 23:58,comment,Sat,23,no,comment on peer review feedback
+91,instagram,2/22/2025 10:27,photo,Sat,10,no,foto Trastevere nebbia mattina
+92,instagram,2/23/2025 21:30,story,Sun,21,no,story materiali restauro laboratorio
+93,twitter,2/24/2025 16:35,retweet,Mon,16,no,retweet articolo restauro monumenti
+94,researchgate,2/24/2025 21:24,paper_update,Mon,21,no,paper update Baroque facades methodology
+95,reddit,2/25/2025 10:06,comment,Tue,10,no,comment on restoration techniques
+96,reddit,2/25/2025 19:18,comment,Tue,19,no,reply on seismic reinforcement methods
+97,instagram,2/25/2025 18:24,story,Tue,18,no,story Roma vista dal ponte
+98,twitter,2/26/2025 11:40,tweet,Wed,11,no,tweet Roma primavera passeggiata Tevere
+99,archdaily,2/26/2025 18:35,save,Wed,18,no,saved heritage restoration project
+100,instagram,2/27/2025 16:35,story,Thu,16,no,story da cantiere lavoro
+101,researchgate,2/27/2025 15:08,paper_update,Thu,15,no,paper update Baroque facades methodology
+102,reddit,2/28/2025 18:25,comment,Fri,18,no,comment on restoration techniques
+103,twitter,2/28/2025 20:39,reply,Fri,20,no,reply on heritage conservation debate
+104,reddit,3/1/2025 11:45,post,Sat,11,no,post on cross-border methodology
+105,linkedin,3/1/2025 10:05,post,Sat,10,no,post Heritage BIM workshop Florence
+106,instagram,3/2/2025 17:02,photo,Sun,17,no,foto fotogrammetria San Carlo Borromini
+107,archdaily,3/3/2025 10:01,comment,Mon,10,no,comment on adaptive reuse project review
+108,reddit,3/3/2025 8:26,comment,Mon,8,no,comment on adaptive reuse project
+109,researchgate,3/4/2025 19:29,comment,Tue,19,no,reply on finite element analysis method
+110,researchgate,3/4/2025 19:02,comment,Tue,19,no,comment on peer review feedback
+111,reddit,3/5/2025 17:46,comment,Wed,17,no,comment on adaptive reuse project
+112,researchgate,3/6/2025 18:19,paper_update,Thu,18,no,paper update Baroque facades methodology
+113,reddit,3/6/2025 20:35,post,Thu,20,no,post on Colosseo restoration visit
+114,instagram,3/7/2025 12:29,story,Fri,12,no,story materiali restauro laboratorio
+115,instagram,3/7/2025 12:25,photo,Fri,12,no,foto Pantheon al tramonto
+116,archdaily,3/7/2025 11:58,save,Fri,11,no,saved heritage restoration project
+117,twitter,3/8/2025 23:51,retweet,Sat,23,no,retweet articolo restauro monumenti
+118,archdaily,3/8/2025 19:58,comment,Sat,19,no,comment on glass insertion debate
+119,reddit,3/8/2025 9:01,post,Sat,9,no,post on cross-border methodology
+120,github,3/9/2025 10:25,commit,Sun,10,no,commit report generation module
+121,archdaily,3/10/2025 17:45,save,Mon,17,no,saved heritage restoration project
+122,linkedin,3/10/2025 19:14,comment,Mon,19,no,reply on conservation methodology article
+123,linkedin,3/11/2025 23:16,comment,Tue,23,no,comment on colleague restoration project
+124,reddit,3/11/2025 9:16,comment,Tue,9,no,comment on Baroque facade conservation
+125,reddit,3/11/2025 18:09,post,Tue,18,no,discussion on historical interventions
+126,reddit,3/12/2025 18:15,post,Wed,18,no,post on cross-border methodology
+127,researchgate,3/12/2025 18:44,paper_update,Wed,18,no,paper update Baroque facades methodology
+128,github,3/13/2025 19:08,issue_comment,Thu,19,no,reply on photogrammetry integration
+129,twitter,3/14/2025 15:46,tweet,Fri,15,no,tweet cantiere Palazzo Barberini aggiornamento
+130,archdaily,3/14/2025 13:38,comment,Fri,13,no,comment on glass insertion debate
+131,linkedin,3/15/2025 21:33,share,Sat,21,no,share heritage technology news
+132,linkedin,3/16/2025 10:53,share,Sun,10,no,share heritage technology news
+133,archdaily,3/17/2025 21:46,save,Mon,21,no,saved Rome urban renewal article
+134,twitter,3/18/2025 20:19,reply,Tue,20,no,reply on heritage conservation debate
+135,instagram,3/18/2025 18:05,story,Tue,18,no,story materiali restauro laboratorio
+136,linkedin,3/19/2025 20:19,comment,Wed,20,no,comment on colleague restoration project
+137,linkedin,3/20/2025 12:36,post,Thu,12,no,post looking for 3D scanning collaborator
+138,reddit,3/20/2025 15:14,comment,Thu,15,no,comment on Baroque facade conservation
+139,linkedin,3/21/2025 12:53,post,Fri,12,no,post looking for 3D scanning collaborator
+140,github,3/21/2025 20:16,issue_comment,Fri,20,no,comment on decay category expansion
+141,github,3/21/2025 16:50,issue_comment,Fri,16,no,comment on decay category expansion
+142,linkedin,3/22/2025 23:32,share,Sat,23,no,share Journal of Architectural Conservation article
+143,linkedin,3/22/2025 22:42,share,Sat,22,no,share heritage technology news
+144,linkedin,3/22/2025 20:46,comment,Sat,20,no,reply on conservation methodology article
+145,twitter,3/23/2025 11:35,tweet,Sun,11,no,tweet seminario fotogrammetria beni culturali
+146,reddit,3/24/2025 12:20,comment,Mon,12,no,comment on Baroque facade conservation
+147,github,3/24/2025 21:56,issue_comment,Mon,21,no,reply on photogrammetry integration
+148,twitter,3/25/2025 23:19,reply,Tue,23,no,risposta collega su restauro
+149,archdaily,3/25/2025 17:38,save,Tue,17,no,saved heritage restoration project
+150,reddit,3/25/2025 18:48,post,Tue,18,no,post on Colosseo restoration visit
+151,linkedin,3/26/2025 17:40,comment,Wed,17,no,comment on colleague restoration project
+152,twitter,3/27/2025 21:02,tweet,Thu,21,no,tweet convegno Milano presentazione
+153,reddit,3/27/2025 21:29,reply,Thu,21,no,reply on Portland cement damage
+154,reddit,3/28/2025 10:57,comment,Fri,10,no,comment on adaptive reuse project
+155,github,3/29/2025 15:09,issue_comment,Sat,15,no,reply on photogrammetry integration
+156,instagram,3/29/2025 15:09,reel,Sat,15,no,reel processo fotogrammetrico
+157,linkedin,3/30/2025 18:36,comment,Sun,18,no,comment on colleague restoration project
+158,twitter,3/31/2025 17:30,retweet,Mon,17,no,retweet articolo restauro monumenti
+159,instagram,3/31/2025 18:18,story,Mon,18,no,story da cantiere lavoro

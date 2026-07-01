@@ -1,0 +1,7 @@
+Sot provova nje qasje te re per nje projekt branding - ne vend qe te filloj me logon, fillova me tipografine dhe paleten e ngjyrave. Eshte mjaft interesante si ndryshon procesi kur e kthen mbrapsht. Zakonisht filloj me sketche logo por kete rradhe doja te eksperimentoj.
+
+Klienti donte dicka qe te ndjehej "organike por profesionale" - pra zgjodha nje kombinim te Libre Baskerville per headings dhe Source Sans Pro per body. Ngjyrat jane te bazuara ne natyre: jeshile e thelle, bezh i ngrohte, dhe aksente te verdha.
+
+E bera wireframe-in ne Figma dhe pastaj kalova ne Illustrator per finalizim. Po mendoj a eshte me mire te shtoj edhe motion elements - ndoshta nje animacion e thjeshte per logon me After Effects. A ia vlen koha shtese per nje klient te vogel? Nuk jam i sigurte por do te provoj.
+
+Gjithashtu po mendoj te ndryshoj procesin tim te punes ne pergjithesi. Shume dizajnere fillojne me research dhe moodboard, por une shpesh hidhemi direkt ne Figma. Ndoshta duhet te jem me i strukturuar? A ka dikush qe ka nje workflow te mire per branding projects?

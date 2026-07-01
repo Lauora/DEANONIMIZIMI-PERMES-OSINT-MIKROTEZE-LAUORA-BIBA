@@ -1,0 +1,180 @@
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P1\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P1 0.0021231422505307855
+2. P3 0.002304147465437788
+3. P2 0.002331002331002331
+4. P4 0.0026455026455026454
+5. P6 0.003436426116838488
+6. P5 0.003861003861003861
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P1\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P1 0.21075630876706264
+2. P3 0.2280152013053951
+3. P2 0.29449932738245543
+4. P4 0.49220277121280775
+5. P6 0.7089206339644211
+6. P5 0.7621424898786547
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P2\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P2 0.001976284584980237
+2. P1 0.0022675736961451248
+3. P3 0.00228310502283105
+4. P4 0.002544529262086514
+5. P6 0.003236245954692557
+6. P5 0.003745318352059925
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P2\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P2 0.2101937784436344
+2. P1 0.24316729296036266
+3. P3 0.2628137583928528
+4. P4 0.4702540348124504
+5. P6 0.6458482326509771
+6. P5 0.6981337473948743
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P3\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P3 0.0020242914979757085
+2. P4 0.002364066193853428
+3. P1 0.002369668246445498
+4. P2 0.0024691358024691358
+5. P6 0.003389830508474576
+6. P5 0.003968253968253968
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P3\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P3 0.25420762138216235
+2. P1 0.29254318059042517
+3. P2 0.3765085188878148
+4. P4 0.48570865219606674
+5. P6 0.724468336141404
+6. P5 0.7696314032983163
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P4\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P4 0.002145922746781116
+2. P3 0.0022026431718061676
+3. P1 0.00234192037470726
+4. P2 0.0025
+5. P6 0.0033222591362126247
+6. P5 0.0035971223021582736
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P4\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P3 0.3474961788200578
+2. P1 0.37371951667209635
+3. P2 0.44221578305893827
+4. P4 0.4492654291287309
+5. P6 0.7266797415802475
+6. P5 0.7544400726045962
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P5\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P5 0.0015037593984962407
+2. P6 0.0017605633802816902
+3. P4 0.001876172607879925
+4. P3 0.002036659877800407
+5. P2 0.0022988505747126436
+6. P1 0.002331002331002331
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P5\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P5 0.14204485427325675
+2. P6 0.29696059440375144
+3. P4 0.4319726192239407
+4. P2 0.6347513009060766
+5. P3 0.645234061623116
+6. P1 0.6535267787467041
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P6\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Alt Intersection Distance 
+1. P6 0.0015290519877675841
+2. P5 0.0018148820326678765
+3. P4 0.0018315018315018315
+4. P3 0.002127659574468085
+5. P2 0.0022026431718061676
+6. P1 0.002242152466367713
+
+
+test.txt C:\Users\Laura Biba\Desktop\OSINT Research\profile\P6\test.txt
+Canonicizers: 
+        none
+EventDrivers: 
+        Character NGrams n : 3 
+Analysis: 
+        Centroid Driver with metric Cosine Distance 
+1. P6 0.2354921181992814
+2. P5 0.30427212040460916
+3. P4 0.41053667352703016
+4. P2 0.5550827916901078
+5. P3 0.5754254337566036
+6. P1 0.5873420411885819
+
+

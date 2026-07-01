@@ -1,0 +1,72 @@
+[REDDIT - r/civilengineering - u/alex_d_1990]
+
+Po e shikoj kete ndertese te re qe po ngrihet tek rruga e Durresit, dhe sinqerisht mendoj qe dizajni eshte shume i mire. Une si inxhinier civil e vleresoj shume kur arkitektura dhe strukturat bashkepunojne mire. Ka nje elegance ne menyren si jane vendosur kolonat, dhe materialet duken cilesore. Kush eshte kompania qe e projekton? Se kam pare nje fushe te madhe me logon por nuk e lexova dot.
+
+Sot ne pune patam nje diskutim te gjate me koleget per standartet e reja te ndertimit ne Shqiperi. Mendoj qe po shkojme ne drejtimin e duhur, por ka ende shume pune per tu bere. Infrastruktura ne Tirane ka nevoje per permiresim te vazhdueshme, sidomos ne zonat periferike ku ndertimi eshte i pakontrolluar. Pra nuk eshte vetem ceshtje estetike, eshte ceshtje sigurie.
+
+A ka ndonje njeri ketu qe merret me BIM software? Po mundohem te mesoj Revit por eshte paksa konfuze ne fillim. Kam perdorur AutoCAD per vite te tera por Revit eshte krejtesisht tjeter... nuk jam i sigurte nese po e bej sic duhet. Nese ka ndonje tutorial te mire do ta vleresoja shume.
+
+[REDDIT - r/learnpython - u/alex_d_1990]
+
+Gjithashtu doja te pyesja per python - a ia vlen per nje inxhinier civil? Kam degjuar qe mund te automatizohet shume pune me pandas dhe numpy, sidomos per kalkulimet strukturore. Kam filluar nje kurs ne Udemy por nuk jam i sigurte nese po e ndjek ate te duhuren. Profesori flet shume shpejt dhe ndonjehere humbes fillin.
+
+Provova te bej nje script te thjeshte qe llogarit momentin e nje trau, por mu duk shume i ngatherruar per dicka qe ne Excel e bej ne 5 minuta. Ndoshta ende nuk e kam kapur filozofine e programimit, pra do te vazhdoj te provoj.
+
+[GITHUB - alex_d_1990 - README.md per repo "beam-calculator"]
+
+# Beam Calculator v0.2
+Simple Python tool for calculating bending moments and shear forces in simply supported beams. Built for civil engineers who want to automate repetitive structural calculations.
+
+## Features
+- Point loads and distributed loads
+- Support reactions calculation
+- Bending moment diagrams (matplotlib)
+- Export results to CSV
+
+Still learning Python so the code is probably not great, but it works for my use cases. Feedback welcome.
+
+[TWITTER/X - @alex_d_1990]
+
+Dite e gjate ne kantier sot. Betoni nuk pret askend, as shiun as lodhjen 😅 Por kur shikon qe struktura ngrihet sic duhet, ia vlen cdo pike djerse. #engineering #tirane
+
+Sapo mbarova kursin e Revit ne Udemy. 3 muaj e gjysem, por tani e kuptoj BIM shume me mire. Nese jeni inxhiniere dhe ende perdorni vetem AutoCAD, sinqerisht ia vlen te provoni Revit. Ndryshimi eshte i madh.
+
+Nuk e kuptoj pse rruget e Tiranes jane ne kete gjendje. Si inxhinier me dhemb shpirti kur shoh asfalt te ri qe plaset pas 6 muajsh. Ka standarte per keto gjera, thjesht duhen zbatuar.
+
+Champions League sonte... mendoj qe do jete ndeshje e mire, por sinqerisht nuk pres shume nga skuadrat kete sezon. Gjithsesi do e shikoj me shoke ne Bllok, pra nese ka dikush nga Tirana le te bjere nje kafe bashke 😅
+
+[STACKOVERFLOW - alex.d.1990]
+
+I'm trying to calculate the deflection of a cantilever beam with a point load using Python. My formula seems correct (PL^3/3EI) but the output is off by a factor of 1000. I suspect it's a unit conversion issue - I'm mixing mm and m somewhere. Can someone spot the error?
+
+Update: Found it. I was inputting the moment of inertia in mm^4 but the length in meters. Converting everything to consistent units fixed it. Leaving this here in case someone else makes the same mistake.
+
+[MEDIUM - @alexdurresi - "Pse Inxhineria Civile ne Shqiperi ka Nevoje per Dixhitalizim"]
+
+Kam punuar si inxhinier civil ne Tirane per me shume se 10 vjet, dhe nje gje me bie ne sy vazhdimisht: industria jone eshte ende shume analoge. Shumica e studios perdorin AutoCAD 2D, kalkulimet behen ne Excel, dhe dokumentacioni mbahet ne dosje fizike. Kjo nuk eshte thjesht ceshtje efikasiteti, eshte ceshtje cilesie dhe sigurie.
+
+BIM (Building Information Modeling) nuk eshte thjesht nje software - eshte menyre e re te menduari per ndertimin. Kur modeli 3D permban te gjitha informacionet strukturore, mekanike dhe elektrike, gabimet zbulohen para se te filloje ndertimi, jo gjate tij.
+
+Pra mendoj qe eshte koha qe industria jone te beje hapin e rradhes. Nuk eshte luksi, eshte domosdoshmeri.
+
+[INSTAGRAM - alex_d_1990 - captions]
+
+Perendimi nga kantieri sot 🌅 Ndonjehere puna ka momentet e veta te bukura, edhe kur je i lodhur. #tirane #engineering #sunset
+
+Projekt i ri, sfida te reja. Kete rradhe eshte nje strukture metalike qe kerkon saktesi te larte ne montim. Po mesoj shume nga ky projekt... sinqerisht cdo pune te jep dicka te re nese e merr seriozisht 💪 #civilengineering #construction
+
+[LINKEDIN - alex-durresi-eng - post]
+
+Excited to share that I recently completed an advanced Revit certification through Autodesk. As a structural engineer working in Tirana, I believe BIM adoption is critical for improving construction quality in Albania. Happy to connect with fellow engineers interested in digital transformation in our industry. #CivilEngineering #BIM #Albania
+
+[FORUM.AL - alex_d_1990 - tema "Cmimi i apartamenteve ne Tirane 2025"]
+
+Sinqerisht cmimet jane te cmendura tani. Per nje apartament 2+1 ne zone te mire po kerkohen 150-180 mije euro, qe per rrogen mesatare shqiptare eshte komplet e pamundur. Si inxhinier e di qe kostoja e ndertimit nuk e justifikon kete cmim, pra fitimi shkon tek zhvilluesit.
+
+Po mendoj te blej diku jashte qendres, ndoshta Kamez ose Farke, por infrastruktura atje eshte problem. Rruget jane te ngushta, transporti publik nuk ekziston praktikisht, dhe sherbimet komunale jane minimale. Pra eshte dileme - cmim te larte ne qender ose infrastrukture te dobet jashte saj.
+
+[FORUM.AL - alex_d_1990 - tema "Cilesia e ndertimeve te reja"]
+
+Kam pare disa ndertesa te reja qe me shqetesojne sinqerisht. Muret nuk jane ne nivel, suvatimi eshte bere me ngut, dhe izolimi termik eshte minimal ose inekzistent. Si inxhinier mendoj qe kontrolli i cilesise duhet te jete me i rrepte, por ketu ne Shqiperi inspektimet jane me shume formalitet sesa kontroll i vertete.
+
+Nese po blini apartament te ri, keshilla ime eshte: merrni nje inxhinier te pavarur ta kontrolloje para se te firmosni. E di qe kushton ekstra, por me mire 500 euro tani sesa probleme strukturore per 20 vjet.

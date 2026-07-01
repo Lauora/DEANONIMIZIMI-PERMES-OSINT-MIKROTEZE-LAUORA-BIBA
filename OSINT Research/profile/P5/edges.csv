@@ -1,0 +1,4 @@
+source,target,platform,weight,interaction_type,date
+7f2a_session_01,random_replier_001,reddit,1,reply,1/13/2025
+7f2a_session_01,privacy_discussion_bot,reddit,1,reply,2/5/2025
+7f2a_session_01,academic_reader_anon,reddit,1,comment,2/28/2025

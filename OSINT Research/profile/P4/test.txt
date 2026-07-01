@@ -1,0 +1,11 @@
+Metadata e skedareve jane problem i nenestimuar. Jo vetem fotot. Dokumentet, PDF-te, spreadsheet-et. Te gjitha permbajne informacion identifikues. Autori, software, data, versioni.
+
+Fshirja manuale nuk mjafton. Kerkohet automatizim. Script qe pastron cdo skedar para shperndarjes. Pa perjashtim. Pa harrese.
+
+Organizatat duhet te implementojne politike te qarta. Cdo skedar qe del jashte rrjetit te brendshem duhet pastruar. Kjo nuk eshte paranoje. Eshte higjene dixhitale bazike.
+
+Mjetet ekzistojne. ExifTool per imazhe. MAT2 per dokumente. Problemi nuk eshte teknologjik. Eshte organizativ. Njerezit harrojne. Sistemet nuk duhet te lejojne harrese.
+
+Evidenca sugjeron qe shumica e rrjedhjeve te te dhenave ndodhin nga neglizhenca. Jo nga sulme te sofistikuara. Nje skedar i papastruar i derguar me email ekspozon me shume se nje sulm teknik. Kjo eshte ironi.
+
+Zgjidhja eshte komplet e thjeshte. Pipeline automatik. Cdo skedar kalon nga filtra metadata para se te largohet. Zero nderhyrje manuale. Zero mundesi gabimi. Teknologjia ekziston. Vendimi eshte organizativ. Mungesa e veprimit nuk eshte e justifikueshme.

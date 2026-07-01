@@ -1,0 +1,172 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P2
+================================================================================
+
+                         KLASIFIKIMI: MBROJTJE BAZIKE
+                         Kodi: P2 
+
+================================================================================
+SEKSIONI A - IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë: 		Andi Berati
+Data e lindjes: 	22 Korrik 1996 (29 vjeç)
+Gjinia: 		Mashkull
+Profesioni: 		Dizajner grafik freelance
+Kompania: 		Veprimtari e pavarur (freelance)
+Arsimimi: 		BA në Dizajn Grafik - Universiteti i Arteve, Tiranë (2018)
+Qyteti: 		Tiranë, Shqipëri
+Adresa fiktive: 	Rruga "Myslym Shyri", Tiranë
+Zona kohore: 		UTC+1 (CET) / UTC+2 (CEST, gjatë orës verore)
+Gjuha kryesore: 	Shqip (me anglisht të mirë, veçanërisht në terminologjinë e dizajnit)
+
+================================================================================
+SEKSIONI B - KREDENCIALET DIGJITALE
+================================================================================
+
+Email kryesor:          andi.b.design@example.com
+Email dytësor:          andiB_96@example.com
+Email i vjetër: 	andi.berati@example.com (i përdorur para vitit 2022, aktualisht i braktisur)
+Password pattern:       AndiDesign96! / Andi_B_96! / andiB!2096
+			(Shënim: Variante të ngjashme, por më pak sistematike se P1)
+
+================================================================================
+SEKSIONI C - PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username             Statusi    Aktiviteti
+---  ---------         --------             -------    ----------
+1.   Reddit            u/andi_b_design      Aktiv      Rreth 30 komente dhe 5 postime gjatë 3 muajve të fundit
+2.   GitHub            andib96              Aktiv      2 repo (portfolio site), 8 commits
+3.   Twitter/X         @andi_b_96           Aktiv      Rreth 45 tweets (dizajn dhe personal)
+4.   Behance           andi-berati          Aktiv      Portfolio me 12 projekte
+5.   Instagram         andi.b.design   	    Aktiv      80 foto (dizajn, jetë, Tiranë)
+6.   Dribbble          AndiBerati           Aktiv      8 shots
+7.   Forum.al          andi_berat_user      Aktiv      15 postime
+8.   LinkedIn          andi-berati-design   Pak aktiv  Profil bazik, 90 lidhje
+
+Username Pattern:	Variantet e ngjashme, por jo identike
+                    	Pattern bazik: andi + b/berati + design/96
+                    	Sherlock mund te lidhë disa, por jo te gjitha.
+                   	Behance dhe Dribbble e kanë emrin e plotë - kjo përbën një pikë të dobët.
+
+Bio Pattern:        	Varion midis platformave:
+                    		Reddit:   "Graphic designer. Figma enthusiast."
+                    		Twitter:  "Design | Tirana | Coffee + Pixels"
+                    		Behance:  "Andi Berati - Graphic Designer based in Tirana"
+                    	Disa bio përmendin Tiranën, që është indikator për V4.
+
+Avatar Pattern:     	Foto të ndryshme në shumicën e platformave.
+                    	Në Reddit dhe Twitter përdoret e njëjta foto, gjë që konsiderohet gabim.
+
+================================================================================
+SEKSIONI D - PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Smartphone:             iPhone 14 Pro (A2890), iOS 17.4
+GPS:                    Aktivizuar (harron ta çaktivizojë)
+Laptop:                 MacBook Air M2 (për punë dizajni)
+Browser:                Safari (default) + Chrome (për punë)
+VPN:                    ProtonVPN Free (e përdor rastësisht rreth 30% të kohës)
+                        Shpesh harron ta aktivizojë, sidomos në telefon.
+Tor:                    Asnjëherë 
+Password Manager:       iCloud Keychain (vetëm për disa site)
+2FA:                    Në email dhe Instagram, askund tjetër
+
+================================================================================
+SEKSIONI E - METADATA EXIF
+================================================================================
+
+STRATEGJIA: Andi është i vetëdijshëm që fotot përmbajnë metadata dhe përpiqet t’i fshijë para ngarkimit. 
+Megjithatë, ai harron rreth 2 nga 10 foto. Këto dy foto ruajnë EXIF të plotë.
+
+
+Imazhi  EXIF Status     GPS Lat       GPS Lng       Model        Data/Ora
+------  -----------     -------       -------       -----        --------
+01      FSHIRË          -             -             -            -
+02      FSHIRË          -             -             -            -
+03      FSHIRË          -             -             -            -
+04      FSHIRË          -             -             -            -
+05      FSHIRË          -             -             -            -
+06      FSHIRË          -             -             -            -
+07      FSHIRË          -             -             -            -
+08      FSHIRË          -             -             -            -
+09      HARRUAR        41.3310 N     19.8220 E     iPhone 14P   2025:02:14 11:25:18
+10      HARRUAR        41.3298 N     19.8245 E     iPhone 14P   2025:03:02 19:40:33
+
+SHËNIME EXIF:
+
+8 imazhe kanë EXIF të fshirë me aplikacionin Photos ose manualisht, në mënyrë efektive.
+2 imazhe kanë EXIF të plotë të mbetur aktiv - GPS lokalizon në zonën Blloku/Myslym Shyri, Tiranë.
+Këto foto janë ngarkuar në Instagram Stories, ku metadata nuk hiqet gjithmonë automatikisht.
+Ky model gabimi është i zakonshëm, sidomos kur procesi i fshirjes nuk zbatohet në mënyrë konsistente.
+
+================================================================================
+SEKSIONI F - PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT:
+
+Mëngjes (09:00–10:30): 	Instagram scroll, Twitter check.
+Paradite (10:30–13:00): Punë dizajni, pak aktiv online.
+Drekë (13:00–14:00): 	Reddit browse, Behance inspirim.
+Pasdite (14:00–18:00): 	Punë, GitHub commits, Dribbble upload.
+Mbrëmje (19:00–23:30): 	Reddit, Twitter, Instagram, Forum.al.
+Natën (23:30–01:00): 	Ndonjëherë Instagram/Twitter (10% e kohës).
+01:00–09:00: 		Zero (fle).
+VPN Noise: 		30% e postimeve bëhen me VPN; timestamp mbetet, por IP-ja ndryshon.
+
+Ditët më aktive: E mërkurë, e Premte, e Shtunë.
+Dita më pak aktive: E Hënë (stres nga afatet e punës, pak online).
+
+SJELLJA LINGUISTIKE (per V3 - Stilometri):
+
+Shkruan shqip në mënyrë të zakonshme, me shumë anglicizma të fushës së dizajnit ("wireframe", "mockup", "color palette").
+Fjali mesatare deri të shkurtra (10–18 fjalë).
+Përdor shpesh shprehjet: "shumë", "mjaft", "e di që", "po mendoj", "a është më mirë".
+Pikësimi: presje normale; përdor shenjën "-" për ndarje mendimesh; përdor shpesh "?".
+Toni: entuziast, pak i pasigurt, kërkon vazhdimisht feedback.
+Pak i vetëdijshëm: shmang emrin real në komente, por stili mbetet i njëjtë.
+Nuk e modifikon fjalorin qëllimisht; thjesht nuk shkruan gjëra personale.
+
+TEMAT E PREFERUARA:
+
+Dizajn grafik dhe UI/UX (40%).
+Mjetet: Figma, Illustrator, After Effects, Canva (20%).
+Jeta freelance: klientë, çmime, menaxhim kohe (15%).
+Tirana: kafene, evente, kulturë (15%).
+Teknologji: gadgets, apps, trends (10%).
+
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score i Pritur    Arsyeja
+-------              --------------    -------
+
+V1 - EXIF            8-10/25           2 foto me GPS; jo 0, por jo maksimal.
+V2 - Cross-Platform  12-15/20          Variante të username-it; Sherlock gjen 3-5 platforma.
+V3 - Stilometri      10-14/20          Stil pak i modifikuar, por ende i njohshëm.
+V4 - Orare           10-12/15          VPN sporadik shton noise, por pattern-i qëndron.
+V5 - Rrjeti Social   5-7/10            Disa nyje lidhëse, por më pak se P1.
+V6 - Breach Data     3-5/10            Email i vjetër, ndoshta në një breach.
+
+Bonus konfirmues:     +3 deri +5       GPS-i (2 foto) konfirmon pjesërisht timezone-in.
+TOTAL I PRITUR:       45-60/100        Niveli II-III; indikatorë mesatarë.
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.

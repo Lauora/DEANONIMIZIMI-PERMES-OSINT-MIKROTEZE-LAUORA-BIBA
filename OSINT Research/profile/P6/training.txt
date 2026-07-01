@@ -1,0 +1,70 @@
+[REDDIT - r/architecture - u/arch_fontana_roma]
+
+Today I visited the Colosseo restoration site again to study the new structural reinforcement techniques. The engineering team has done remarkable work balancing modern seismic requirements with the original Roman concrete composition. As a restoration architect, I find this intersection of ancient and modern engineering endlessly fascinating.
+
+The challenge with historical structures is always the same: how do you strengthen without altering the character? Every intervention must be reversible, minimal, and respectful of the original intent. The Italian Soprintendenza enforces these principles rigorously, which sometimes makes projects longer but ultimately preserves authenticity.
+
+I presented my research on Baroque facade conservation at the Milano conference last month. The reception was encouraging. Several colleagues from Vienna and Barcelona expressed interest in collaborative projects. Cross-border restoration methodology is an area with significant potential for knowledge exchange.
+
+[REDDIT - r/architecture - u/arch_fontana_roma]
+
+One question that comes up frequently in restoration work is how to handle previous interventions that were themselves historically significant but technically inadequate. At Palazzo Farnese, for example, some 19th-century repairs used Portland cement that is now causing damage to the original travertine. Removing these repairs is itself a form of historical erasure, but leaving them accelerates deterioration.
+
+The decision framework we use involves documenting everything thoroughly before any intervention, then consulting with the Soprintendenza on a case-by-case basis. There is no universal rule, which is both the beauty and the frustration of this work.
+
+[TWITTER/X - @fontana_restauro]
+
+Giornata meravigliosa al cantiere del Palazzo Barberini. Il restauro della facciata procede bene. I test sui materiali originali confermano che il travertino e in condizioni migliori del previsto. Buone notizie per il progetto. #restauro #roma #architettura
+
+Il convegno di Milano e stato molto produttivo. Ho presentato il paper sulla conservazione delle facciate barocche. Feedback positivi dai colleghi europei. La collaborazione internazionale e fondamentale per il nostro settore.
+
+Roma in primavera e semplicemente bellissima. Dopo una giornata di lavoro, passeggiare lungo il Tevere e ammirare i ponti storici e il modo migliore per ricaricare le energie. Ogni ponte racconta una storia di ingegneria e arte. #roma #primavera
+
+Oggi ho scoperto un dettaglio interessante sulla facciata di Sant'Ivo alla Sapienza. Il Borromini ha integrato un sistema di drenaggio invisibile nella decorazione esterna. Genio assoluto. #borromini #roma #architettura
+
+Seminario sulla fotogrammetria applicata ai beni culturali. La precisione dei rilievi digitali ha raggiunto livelli straordinari. Il futuro della documentazione del patrimonio e decisamente digitale. #photogrammetry #heritage
+
+[GITHUB - maria-fontana-arch - README per repo "archicad-heritage-tools"]
+
+# ArchiCAD Heritage Tools v0.3
+Custom GDL objects and scripts for historical building documentation in ArchiCAD. Designed specifically for Italian heritage restoration projects compliant with Soprintendenza requirements.
+
+## Features
+- Parametric GDL objects for classical architectural elements (columns, cornices, capitals)
+- Decay mapping templates for stone and plaster surfaces
+- Integration with photogrammetric survey data
+- Report generation for Soprintendenza documentation
+
+Developed for personal use in my restoration practice. Contributions welcome from fellow heritage architects.
+
+[GITHUB - maria-fontana-arch - issue comment]
+
+The decay mapping template now supports six categories of surface deterioration: biological growth, salt crystallization, mechanical damage, water infiltration, atmospheric pollution, and previous intervention failure. Each category maps to a specific color code in the ArchiCAD model for visual clarity during site inspections.
+
+[INSTAGRAM - maria.fontana.arch - captions]
+
+Il Pantheon al tramonto. Dopo 2000 anni, questa cupola rimane un capolavoro di ingegneria strutturale. La luce che entra dall'oculo crea un effetto che nessun architetto moderno riesce a replicare. Semplicemente perfetto. #pantheon #roma #architecture #heritage
+
+Dettaglio del restauro in corso a Palazzo Farnese. Notate la differenza tra il travertino originale e quello di sostituzione. L'obiettivo e sempre minimizzare la visibilita dell'intervento. #restauro #conservation #roma
+
+Studio di fotogrammetria sulla facciata di San Carlo alle Quattro Fontane. Il rilievo digitale ci permette di documentare ogni crepa con precisione millimetrica. La tecnologia al servizio del patrimonio. #photogrammetry #borromini #heritage
+
+Vista dal cantiere questa mattina. Trastevere sotto la nebbia ha un fascino particolare. Momenti come questi mi ricordano perche ho scelto questo mestiere. #roma #trastevere #restoration
+
+[LINKEDIN - maria-fontana-restauro - posts]
+
+Excited to share that our restoration project at Palazzo Barberini has reached a significant milestone. The facade structural analysis is complete, and we have identified the optimal intervention strategy that balances seismic safety with heritage preservation. Full technical paper will be published in the Journal of Architectural Conservation later this year.
+
+Looking for collaborators with expertise in 3D laser scanning for heritage documentation. If you work in this field and are interested in a joint research project in Rome, please reach out.
+
+Attended an excellent workshop on Building Information Modeling for heritage structures in Florence last week. The integration of BIM with traditional survey methods is creating new possibilities for documentation and conservation planning. Highly recommend the Heritage BIM initiative for anyone working in this space.
+
+[RESEARCHGATE - Maria_Fontana - abstract]
+
+Conservation of Baroque Facades in Seismic Zones: A Methodological Framework for Minimal Intervention. This paper proposes an integrated approach to structural assessment and conservation planning for historical facades in earthquake-prone regions, with specific application to 17th-century buildings in central Rome. The methodology combines traditional visual inspection with modern non-destructive testing, photogrammetric documentation, and finite element analysis.
+
+[ARCHDAILY - maria_fontana - comments]
+
+This adaptive reuse project demonstrates excellent sensitivity to the existing structure. The contrast between old and new is handled with sophistication. However, I would question whether the glass insertion at the roofline was necessary. Sometimes restraint is the most powerful design gesture. The original proportions spoke for themselves.
+
+Interesting approach to integrating modern services into a protected historic building. The decision to route all mechanical systems through a dedicated service corridor rather than penetrating original walls shows genuine respect for the fabric. More projects should adopt this principle even when it increases cost.

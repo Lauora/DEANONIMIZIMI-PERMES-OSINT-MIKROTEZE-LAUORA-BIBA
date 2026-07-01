@@ -1,0 +1,208 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P5
+================================================================================
+
+                         KLASIFIKIMI: MBROJTJE MAKSIMALE
+                         Kodi: P5
+
+================================================================================
+SEKSIONI A - IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë: 		[I PANJOHUR]
+Data e lindjes: 	[E PANJOHUR]
+Gjinia: 		[E PANJOHUR]
+Profesioni: 		[I PANJOHUR]
+Qyteti real: 		Tiranë, Shqipëri
+Timezone real: 		UTC+1 - i pamundur për t’u inferuar
+Gjuha: 			Vetëm anglisht akademike (asnjëherë shqip online)
+
+SHËNIM METODOLOGJIK: 
+
+P5 përfaqëson nivelin maksimal realist të mbrojtjes digjitale. Simulon një person me njohuri 
+profesionale në OPSEC dhe me ndarje të fortë midis identitetit online dhe jetës reale.
+
+Dallimet kryesore nga P4:
+	1. Përdor Tails OS; pa ruajtje të dhënash në disk dhe me amnezi sistemike.
+	2. Shkruan vetëm anglisht akademike për të shmangur gjurmët gjuhësore.
+	3. Ka prezencë minimale online; vetëm 1–2 platforma aktive.
+	4. Ndryshon llogari periodikisht për të shmangur korrelacionin afatgjatë.
+
+Ky profil teston kufijtë maksimalë të analizës së modeleve të sjelljes. Nëse një sistem arrin të 
+nxjerrë sinjale të qëndrueshme edhe këtu, atëherë kufizimet nuk janë më në nivel përdoruesi, 
+por në nivel strukture të vëzhgimit.
+
+================================================================================
+SEKSIONI B - KREDENCIALET DIGJITALE
+================================================================================
+
+Email: 			Disposable - i ri çdo 2-4 javë
+Shembull aktual: 	rnd_zx_disposable@example.com
+Shembull i vjetër (i braktisur): f8k2_temp@example.com
+Regjistrim email: 	Nëpërmjet Tor, pa numër telefoni, pa email backup.
+Password pattern: 	KeePassXC - 30+ karaktere, databazë në Tails persistent.
+PGP: 			Çelës i ri për çdo identitet; asnjëherë i ripërdorur.
+
+================================================================================
+SEKSIONI C - PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username             Statusi    Aktiviteti
+---  ---------         --------             -------    ----------
+
+1.   Reddit            u/7f2a_session_01    Aktiv      Rreth 8 komente (vetëm në një subreddit)
+2.   (backup)          u/x9k3_tmp_reader    Pasiv      Llogari leximi, 0 postime
+
+
+VETËM 1 PLATFORMË AKTIVE - minimizim absolut i sipërfaqes.
+
+Username Pattern:   	Gjeneruar me /dev/urandom:
+                    		cat /dev/urandom | tr -dc 'a-z0-9' | head -c 12
+
+                 	Rezultat: stringje plotësisht të rastësishme, pa kuptim dhe pa strukturë.
+
+PLATFORMAT E SHMANGURA:
+
+GitHub: Nuk ka; commits përmbajnë metadata (email, timezone).
+Twitter/X: Nuk ka; API ekspozon shumë metadata.
+LinkedIn: Nuk ka.
+Facebook: Nuk ka.
+Instagram: Nuk ka.
+Hacker News: Nuk ka; historia e votave është e gjurmueshme.
+Forum.al: Nuk ka; përdorimi i shqipes zbulon gjuhën amtare.
+Matrix: Nuk ka; server logs ekzistojnë.
+Keybase: Nuk ka; lidh identitete kriptografike.
+
+Bio:                Bosh në çdo platformë.
+Avatar:             Default; asnjëherë imazh.
+Cake day:           Llogari të reja çdo 2–3 muaj; pa histori afatgjatë.
+
+================================================================================
+SEKSIONI D - PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Sistemi operativ: 	Tails OS 6.x - boot nga USB, zero gjurmë në disk.
+Persistent storage: 	Vetëm KeePassXC database (e enkriptuar).
+
+Hardware: 		Laptop i dedikuar vetëm për aktivitet anonim
+			(ThinkPad T430 - i blerë me cash, pa lidhje me identitetin).
+
+Tor: 			I integruar në Tails - gjithmonë aktiv.
+VPN: 			Nuk përdor VPN - Tor konsiderohet i mjaftueshëm.
+			(VPN + Tor mund të jetë më keq se Tor vetëm.)
+Shfletuesi: 		Tor Browser (i vetmi, i integruar në Tails).
+DNS: 			Nëpërmjet Tor (automatik në Tails).
+WiFi: 			Vetëm WiFi publik - asnjëherë rrjet shtëpie ose pune.
+			MAC address i randomizuar automatikisht nga Tails.
+JavaScript: 		Çaktivizuar plotësisht (Safest mode në Tor Browser).
+Cookies: 		Fshihen automatikisht kur mbyllet Tails.
+EXIF: 			Zero imazhe - asnjëherë ngarkim imazhesh.
+Clipboard: 		Tails e pastron automatikisht.
+USB: 			Encrypted persistent; fshihet me një komandë nëse nevojitet.
+
+================================================================================
+SEKSIONI E - METADATA EXIF
+================================================================================
+
+STRATEGJIA: 		P5 nuk ngarkon, nuk krijon dhe nuk ndërvepron asnjëherë me imazhe online.
+			Zero imazhe = zero metadata = zero vektor V1.
+			Nëse për ndonjë arsye duhet të referojë një imazh, përdor URL të një imazhi publik; asnjëherë upload personal.
+
+Për testim të framework-ut: 10 foto plotësisht stock me metadata zero.
+
+REZULTAT V1: Score = 0/25
+
+================================================================================
+SEKSIONI F - PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT - RANDOMIZIM I PLOTË:
+P5 përdor cron job në Tails që ekzekuton postime në orare rastësore:
+
+ 	 # Tails persistent cron (simulated)
+  	HOUR=$(shuf -i 0-23 -n 1)
+  	MIN=$(shuf -i 0-59 -n 1)
+  	echo "Schedule post at $HOUR:$MIN"
+
+Rezultati: shpërndarje teorikisht uniforme; çdo orë ka ~4.17% probabilitet.
+Në praktikë, shpërndarja është pothuajse uniforme me devijim minimal.
+
+Asnjë ditë preference; poston në çdo ditë pa dallim.
+Asnjë orë preference; 03:00 ka të njëjtën mundësi si 14:00.
+
+PIKA E DOBËT: 
+
+Edhe me cron job, P5 duhet të jetë online për të aprovuar postimin. Nëse aprovimi 
+ndodh vetëm gjatë ditës, cron job bëhet i paefektshëm. Për këtë arsye, P5 përdor 
+“delayed posting”: drafti krijohet më herët, ndërsa cron e publikon më vonë, duke 
+eliminuar bias-in.
+
+
+SJELLJA LINGUISTIKE - IMITIM I PLOTË:
+
+P5 nuk shkruan me stilin e vet; ai imiton qëllimisht stilin e një personi tjetër (akademik anglishtfolës).
+
+Teknika 1 - Vetëm anglisht:
+Asnjëherë shqip. Asnjë fjalë shqipe. Asnjë referencë gjeografike që mund të zbulojë Shqipërinë ose Ballkanin.
+
+Teknika 2 - Stil akademik formal:
+Fjali të gjata dhe të strukturuara me fjalor akademik.
+“Shembuj: ‘One might argue that…’, ‘It is worth noting that…’, ‘The empirical evidence suggests…’, ‘From a theoretical standpoint…’.”
+Stili është plotësisht i ndryshëm nga çdo profil tjetër në studim.
+
+Teknika 3 - Zero opinione personale:
+Asnjë “I think”, “I believe”, “in my opinion”.
+Përdor formë impersonale: “It appears”, “Evidence suggests”, “One could argue”.
+
+Teknika 4 - Tematikë abstrakte:
+Diskuton vetëm tema të përgjithshme akademike: data governance, privacy theory, policy analysis. Asnjë temë personale, lokale 
+apo specifike.
+
+
+PIKAT E DOBËTA STILOMETRIKE (minimale):
+
+Stili akademik vetë është identifikues (vetëm një përqindje e vogël e përdor në mënyrë konstante).
+Fjalor specifik si “governance”, “framework”, “empirical” krijon fingerprint.
+Gjatesia konsistente e fjalive (20–30 fjalë) është model.
+Megjithatë, këto sinjale kanë fuqi të ulët atribuimi për shkak të popullatës së gjerë akademike.
+
+
+TEMAT E PREFERUARA:
+
+Data governance dhe privacy policy (40%).
+Teknologji privacy-preserving (30%).
+Analiza abstrakte e shoqërisë digjitale (20%).
+Komente neutrale mbi artikuj akademikë (10%).
+
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score i Pritur    Arsyeja
+-------              --------------    -------
+V1 - EXIF            0/25              Zero imazhe.
+V2 - Cross-Platform  0/20              Një platformë, username i rastësishëm; Sherlock nuk gjen lidhje.
+V3 - Stilometri      2-3/20            Stil i imituar; JGAAP nuk ka bazë krahasimi të mjaftueshme.
+V4 - Orare           0-2/15            Shpërndarje uniforme; pa modele të qëndrueshme.
+V5 - Rrjeti Social   0/10              Pothuajse zero ndërveprime.
+V6 - Breach Data     0/10              Email-e dispozitive; pa histori të njohur shkeljesh të të dhënave.
+
+Bonus konfirmues:     +0               Zero konvergjencë; asnjë vektor nuk konfirmon një tjetër.
+TOTAL I PRITUR:       2-5/100          Niveli I; deanonimizimi është praktikisht i pamundur.
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.

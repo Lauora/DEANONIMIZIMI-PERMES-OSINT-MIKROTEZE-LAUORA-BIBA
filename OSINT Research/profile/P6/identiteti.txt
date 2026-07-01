@@ -1,0 +1,246 @@
+================================================================================
+                    DOSJA E PROFILIT SINTETIK P6
+================================================================================
+
+                    KLASIFIKIMI: KONTROLL (NULL HYPOTHESIS)
+                    Kodi: P6 
+================================================================================
+ROLI KRITIK I P6 
+================================================================================
+
+QËLLIMI:
+P6 nuk përfaqëson një profil të zakonshëm. Ai shërben si grupi kontrollues i eksperimentit dhe përdoret 
+për të verifikuar që framework-u nuk prodhon rezultate të rreme (false positives).
+
+PRITSHMËRIA:
+Score = 0 ndaj P1-P5 në çdo vektor analize.
+
+INTERPRETIMI:
+Nëse framework-u identifikon çfarëdo lidhjeje midis P6 dhe profileve P1-P5, kjo duhet të trajtohet 
+si sinjal i një problemi metodologjik ose i parametrave të analizës, jo si deanonimizim i suksesshëm.
+
+ROLI I P6 NË EKSPERIMENT:
+1. Shërben si pikë reference negative.
+2. Teston specifikën e framework-ut.
+3. Ndihmon në matjen e normës së rezultateve të rreme.
+4. Verifikon që sinjalet e përdorura nuk krijojnë lidhje artificiale midis profileve të palidhura.
+
+KARAKTERISTIKAT KRYESORE:
+1. Mund të ketë EXIF të plotë.
+2. Mund të përdorë username të dukshme dhe konsistente.
+3. Mund të ketë rrjet social aktiv.
+4. Mund të ketë histori postimesh dhe metadata të bollshme.
+Megjithatë, asnjë nga këto elemente nuk duhet të përputhet me profilet P1-P5.
+
+KRITERI I SUKSESIT TË FRAMEWORK-UT:
+
+P6 duhet të mbetet plotësisht i izoluar nga P1-P5 në:
+	V1 - EXIF
+	V2 - Cross-Platform
+	V3 - Stilometri
+	V4 - Orare
+	V5 - Rrjeti Social
+	V6 - Breach Data
+Çdo lidhje e identifikuar midis P6 dhe profileve të tjera konsiderohet anomali metodologjike 
+dhe kërkon rishikim të modelit ose të pragjeve të vendosura për atribuim.
+
+================================================================================
+SEKSIONI A - IDENTITETI SINTETIK
+================================================================================
+
+Emri i plotë: 	Maria Fontana (fiktiv)
+Data e lindjes: 8 nëntor 1984 (41 vjeç)
+Gjinia: 	Femër
+Profesioni: 	Arkitekte restauruese (e specializuar në restaurimin e monumenteve)
+Kompania: 	Studio Fontana Restauro (fiktive), Romë
+Arsimi: 	Laurea Magistrale in Architettura, Università La Sapienza, Romë
+Qyteti: 	Romë, Itali (jo Tiranë, jo Shqipëri)
+Timezone: 	UTC+1 (CET) - i njëjtë me P1-P5
+		(Kjo është e qëllimshme: tregon se timezone nuk mjafton për të krijuar lidhje.)
+Gjuha kryesore: Italisht (asnjëherë shqip).
+
+SHËNIM METODOLOGJIK:
+
+P6 ndan timezone-in UTC+1 me P1-P5, por nuk ndan asnjë karakteristikë tjetër relevante.
+Kjo teston në mënyrë specifike V4 (Oraret): nëse framework-u krijon lidhje midis P6 dhe 
+profileve të tjera vetëm për shkak të timezone-it të përbashkët, atëherë kemi të bëjmë 
+me një rezultat të rremë (false positive).
+
+Timezone është një indikator kontekstual, jo një identifikues unik. Miliona përdorues 
+ndajnë të njëjtin timezone, prandaj ai nuk duhet të trajtohet si provë atribuimi pa 
+mbështetje nga vektorë të tjerë të pavarur.
+
+================================================================================
+SEKSIONI B - KREDENCIALET DIGJITALE
+================================================================================
+
+Email kryesor:          maria.fontana.arch@example.com
+Email dytësor:          m.fontana.restauro@example.com
+Password pattern:       MariaFont84! / FontanaRoma84
+			Shënim: Model krejtësisht i ndryshëm nga P1-P5; 
+			bazuar në emër, mbiemër dhe referenca italiane, jo shqiptare.
+
+================================================================================
+SEKSIONI C - PLATFORMAT DHE PREZENCA ONLINE
+================================================================================
+
+Nr.  Platforma         Username               Statusi    Aktiviteti
+---  ---------         --------               -------    ----------
+
+1.   Reddit            u/arch_fontana_roma    Aktiv      Rreth 30 komente (arkitekturë)
+2.   GitHub            maria-fontana-arch     Aktiv      2 repo (ArchiCAD scripts)
+3.   Twitter/X         @fontana_restauro      Aktiv      Rreth 40 tweets (arkitekturë dhe Romë)
+4.   Instagram         maria.fontana.arch     Aktiv      60 foto (monumente, Romë dhe punë)
+5.   LinkedIn          maria-fontana-restauro Aktiv      Profil profesional, 300+ lidhje
+6.   ResearchGate      Maria_Fontana          Aktiv      3 punime shkencore (restaurim arkitekturor)
+7.   ArchDaily         maria_fontana          Pak aktiv  5 komente
+
+Username Pattern:   Konsistent (maria + fontana + arch/restauro/roma).
+                    Model krejtësisht i ndryshëm nga P1-P5:
+                    	- P1: alex + d + 1990
+                    	- P2: andi + b + design/96
+                    	- P6: maria + fontana + arch/restauro
+                    Zero ngjashmëri fonetike, numerike ose strukturore.
+
+Bio Pattern:        "Architect specializing in historical restoration. Rome, Italy."
+                     Përmend Romën në çdo bio, jo Tiranën.
+
+Avatar:             Fotografi profesionale të arkitekturës (fasada, monumente).
+                    Jo selfie.  
+                    Asnjë ngjashmëri me avatarët e profileve P1-P5.
+
+================================================================================
+SEKSIONI D - PAJISJA DHE KONFIGURIMI TEKNIK
+================================================================================
+
+Smartphone:             iPhone 15 Pro Max (A3108), iOS 17.5
+GPS:                    Aktivizuar gjithmonë.
+Laptop:                 MacBook Pro M3
+Browser:                Safari (default)
+VPN:                    Asnjëherë.
+EXIF:                   I plotë; GPS, modeli i pajisjes dhe timestamp ruhen në çdo imazh.
+			(Qëllimisht: P6 ka EXIF të ngjashëm me P1, por koordinatat GPS tregojnë Romën dhe jo Tiranën.)
+
+================================================================================
+SEKSIONI E - METADATA EXIF
+================================================================================
+
+STRATEGJIA: P6 ka EXIF të plotë, qëllimisht, për të testuar nëse framework-u dallon 
+koordinatat GPS të Romës nga ato të Tiranës.
+
+Imazhi  GPS Lat       GPS Lng       Model            Data/Ora              Vendndodhja
+------  -------       -------       -----            --------              -----------
+01      41.8902       12.4922       iPhone 15 Pro    2025:01:10 09:30:15   Colosseo, Roma
+02      41.9029       12.4534       iPhone 15 Pro    2025:01:14 11:20:40   Vaticano
+03      41.8986       12.4769       iPhone 15 Pro    2025:01:20 14:45:22   Piazza Navona
+04      41.8919       12.4923       iPhone 15 Pro    2025:01:25 16:10:08   Foro Romano
+05      41.9009       12.4833       iPhone 15 Pro    2025:02:02 10:05:33   Pantheon
+06      41.9022       12.4567       iPhone 15 Pro    2025:02:08 08:55:17   Castel Sant'Angelo
+07      41.8840       12.4880       iPhone 15 Pro    2025:02:15 19:25:44   Trastevere
+08      41.9100       12.4950       iPhone 15 Pro    2025:02:22 13:40:09   Villa Borghese
+09      41.8825       12.4764       iPhone 15 Pro    2025:03:01 17:15:28   Testaccio
+10      41.8931       12.4828       iPhone 15 Pro    2025:03:08 20:30:51   Centro Storico
+
+SHËNIME KRITIKE:
+
+	1. GPS = Romë (41.88-41.91 N, 12.45-12.50 E).
+	2. P1 GPS = Tiranë (41.32-41.33 N, 19.81-19.82 E).
+	3. Distanca është rreth 800 km; nuk ka mbivendosje gjeografike.
+	4. Pajisja: iPhone 15 Pro (P1 = Samsung S23, P2 = iPhone 14 Pro).
+	5. Framework-u duhet të dallojë se koordinata të ndryshme GPS përfaqësojnë lokacione të ndryshme 
+	dhe nuk përbëjnë, në vetvete, provë lidhjeje midis profileve.
+
+================================================================================
+SEKSIONI F - PROFILI I SJELLJES DIGJITALE
+================================================================================
+
+ORARET E POSTIMIT:
+
+Mëngjes (08:00-09:30): 	Instagram, Twitter/X.
+Paradite (09:30-13:00): LinkedIn, ResearchGate, aktivitet profesional.
+Drekë (13:00-14:30): 	Reddit.
+Pasdite (14:30-18:00): 	GitHub, komente në ArchDaily.
+Mbrëmje (19:00-22:30): 	Instagram, Twitter/X, Reddit.
+Natë (22:30-08:00): 	Zero aktivitet.
+
+SHËNIME METODOLOGJIKE: 
+
+Oraret janë qëllimisht të ngjashme me ato të P1 (08:00-22:30, UTC+1).
+Kjo shërben për të testuar nëse V4 (Oraret e Postimit) prodhon rezultate të rreme kur dy persona 
+të ndryshëm jetojnë në të njëjtin timezone dhe ndajnë rutina të ngjashme ditore.
+Ngjashmëria e orareve nuk duhet të konsiderohet provë identiteti pa mbështetje nga vektorë të tjerë.
+
+Ditët më aktive: E Martë, e Premte.
+(Kjo është gjithashtu e qëllimshme dhe teston nëse përputhja e ditëve aktive krijon rezultate të rreme.)
+
+
+SJELLJA LINGUISTIKE
+
+Shkruan italisht për postime personale dhe profesionale.
+Shkruan anglisht për komente akademike ndërkombëtare.
+Asnjëherë shqip; nuk ka lidhje gjuhësore me P1-P5.
+Stil profesional, entuziast për arkitekturën dhe i orientuar ndaj detajeve.
+Përdor shpesh fjalët: bellissimo, interessante, fondamentale.
+Fjali mesatarisht të gjata (15-25 fjalë).
+
+SHËNIM:
+Gjatësia e ngjashme e fjalive me P1 nuk duhet të konsiderohet tregues identiteti. Ky atribut 
+është shumë i zakonshëm dhe ka vlerë të kufizuar atribuimi kur analizohet i izoluar.
+
+
+TEMAT E PREFERUARA:
+
+Arkitekturë historike dhe restaurim (40%).
+Roma, kultura dhe ngjarjet lokale (25%).
+Teknologji për arkitekturën: ArchiCAD, BIM, fotogrametri (20%).
+Akademia: konferenca, publikime shkencore dhe peer review (15%).
+
+================================================================================
+SEKSIONI G - REZULTATI (SCORE) I PRITUR
+================================================================================
+
+Vektori              Score ndaj P1-P5    Arsyeja
+-------              ----------------    -------
+
+V1 - EXIF            0/25                GPS = Romë (rreth 800 km larg Tiranës).
+V2 - Cross-Platform  0/20                Username krejtësisht të ndryshme; gjuhë tjetër.
+V3 - Stilometri      0/20                Italisht kundrejt shqipes; nuk ka ngjashmëri stilometrike të vlefshme.
+V4 - Orare           0*/15               Timezone i njëjtë, por kjo nuk përbën lidhje identitare.
+V5 - Rrjeti Social   0/10                Zero kontakte ose nyje të përbashkëta.
+V6 - Breach Data     0/10                Email-e dhe kredenciale plotësisht të ndryshme.
+
+Bonus:                0                   Zero konvergjencë ndërmjet vektorëve.
+TOTAL:                0/100               Niveli I - Zero lidhje (siç pritet).
+
+
+SHËNIM PËR V4:
+
+P6 ka orare të ngjashme me P1 (të dy në UTC+1 dhe me aktivitet më të lartë në mëngjes dhe në mbrëmje). 
+Kjo është e qëllimshme dhe shërben si test negativ për modelin.
+
+Nëse sistemi jep pikë vetëm mbi bazën e:
+	timezone-it të njëjtë,
+	ritmit të ngjashëm ditor,
+	ose ditëve të ngjashme të aktivitetit,
+atëherë kemi të bëjmë me një false positive dhe jo me evidencë atribuimi.
+
+Timezone është një karakteristikë e përbashkët për miliona përdorues dhe nuk duhet të ketë fuqi identifikuese 
+në mungesë të konfirmimit nga vektorë të tjerë të pavarur. P6 ekziston pikërisht për të verifikuar që modeli 
+nuk ngatërron ngjashmërinë statistikore me identitetin e përbashkët.
+
+================================================================================
+SEKSIONI H  -  PROTOKOLLI I DOKUMENTIMIT
+================================================================================
+
+Ky profil është tërësisht sintetik dhe është krijuar ekskluzivisht për qëllime demonstrimi, testimi dhe dokumentimi metodologjik. 
+Çdo element i përfshirë në këtë profil është fiktiv dhe nuk lidhet me asnjë person real, subjekt juridik apo identitet ekzistues.
+
+Adresat elektronike, emrat e përdoruesve (username), të dhënat e aktivitetit, koordinatat, metadata EXIF dhe atributet e tjera 
+janë gjeneruar në mënyrë artificiale për të simuluar një gjurmë digjitale koherente. Këto të dhëna nuk përfaqësojnë llogari 
+reale dhe nuk korrespondojnë me profile aktive në platformat e përmendura.
+
+Imazhet e përdorura në këtë skenar do të përmbajnë vetëm fotografi mjedisore, pa identifikues personalë dhe pa subjekte njerëzore. 
+Metadata EXIF do të konfigurohen në mënyrë sintetike përmes ExifTool, me qëllim simulimin e kushteve reale të dokumentimit dhe 
+analizës.
+
+Ky dokument duhet të interpretohet ekskluzivisht si një model referues për analiza, validim teknik dhe demonstrim konceptual.
